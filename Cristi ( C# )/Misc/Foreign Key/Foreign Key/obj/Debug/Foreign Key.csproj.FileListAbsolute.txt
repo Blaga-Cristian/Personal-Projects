@@ -1,0 +1,13 @@
+E:\Cristi ( C# )\Misc\Foreign Key\Foreign Key\bin\Debug\ScoalaDB.mdf
+E:\Cristi ( C# )\Misc\Foreign Key\Foreign Key\bin\Debug\ScoalaDB_log.ldf
+E:\Cristi ( C# )\Misc\Foreign Key\Foreign Key\bin\Debug\Foreign Key.exe.config
+E:\Cristi ( C# )\Misc\Foreign Key\Foreign Key\bin\Debug\Foreign Key.exe
+E:\Cristi ( C# )\Misc\Foreign Key\Foreign Key\bin\Debug\Foreign Key.pdb
+E:\Cristi ( C# )\Misc\Foreign Key\Foreign Key\obj\Debug\Foreign Key.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Foreign Key\Foreign Key\obj\Debug\Foreign Key.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Foreign Key\Foreign Key\obj\Debug\Foreign_Key.Form1.resources
+E:\Cristi ( C# )\Misc\Foreign Key\Foreign Key\obj\Debug\Foreign_Key.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Foreign Key\Foreign Key\obj\Debug\Foreign Key.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Foreign Key\Foreign Key\obj\Debug\Foreign Key.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Foreign Key\Foreign Key\obj\Debug\Foreign Key.exe
+E:\Cristi ( C# )\Misc\Foreign Key\Foreign Key\obj\Debug\Foreign Key.pdb

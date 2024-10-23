@@ -1,0 +1,13 @@
+E:\Cristi ( C# )\Misc\DateTime shenanigans\DateTime shenanigans\bin\Debug\DB.mdf
+E:\Cristi ( C# )\Misc\DateTime shenanigans\DateTime shenanigans\bin\Debug\DB_log.ldf
+E:\Cristi ( C# )\Misc\DateTime shenanigans\DateTime shenanigans\bin\Debug\DateTime shenanigans.exe.config
+E:\Cristi ( C# )\Misc\DateTime shenanigans\DateTime shenanigans\bin\Debug\DateTime shenanigans.exe
+E:\Cristi ( C# )\Misc\DateTime shenanigans\DateTime shenanigans\bin\Debug\DateTime shenanigans.pdb
+E:\Cristi ( C# )\Misc\DateTime shenanigans\DateTime shenanigans\obj\Debug\DateTime shenanigans.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\DateTime shenanigans\DateTime shenanigans\obj\Debug\DateTime shenanigans.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\DateTime shenanigans\DateTime shenanigans\obj\Debug\DateTime_shenanigans.Form1.resources
+E:\Cristi ( C# )\Misc\DateTime shenanigans\DateTime shenanigans\obj\Debug\DateTime_shenanigans.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\DateTime shenanigans\DateTime shenanigans\obj\Debug\DateTime shenanigans.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\DateTime shenanigans\DateTime shenanigans\obj\Debug\DateTime shenanigans.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\DateTime shenanigans\DateTime shenanigans\obj\Debug\DateTime shenanigans.exe
+E:\Cristi ( C# )\Misc\DateTime shenanigans\DateTime shenanigans\obj\Debug\DateTime shenanigans.pdb

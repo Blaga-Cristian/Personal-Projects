@@ -1,0 +1,11 @@
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Drawing line\Drawing line\bin\Debug\Drawing line.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Drawing line\Drawing line\bin\Debug\Drawing line.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Drawing line\Drawing line\bin\Debug\Drawing line.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Drawing line\Drawing line\obj\Debug\Drawing line.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Drawing line\Drawing line\obj\Debug\Drawing line.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Drawing line\Drawing line\obj\Debug\Drawing_line.Form1.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Drawing line\Drawing line\obj\Debug\Drawing_line.Properties.Resources.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Drawing line\Drawing line\obj\Debug\Drawing line.csproj.GenerateResource.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Drawing line\Drawing line\obj\Debug\Drawing line.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Drawing line\Drawing line\obj\Debug\Drawing line.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Drawing line\Drawing line\obj\Debug\Drawing line.pdb

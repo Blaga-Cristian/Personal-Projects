@@ -1,0 +1,41 @@
+C:\Users\profesor\source\repos\TableImages\TableImages\bin\Debug\TableImages.exe.config
+C:\Users\profesor\source\repos\TableImages\TableImages\bin\Debug\TableImages.exe
+C:\Users\profesor\source\repos\TableImages\TableImages\bin\Debug\TableImages.pdb
+C:\Users\profesor\source\repos\TableImages\TableImages\obj\Debug\TableImages.csprojAssemblyReference.cache
+C:\Users\profesor\source\repos\TableImages\TableImages\obj\Debug\TableImages.Form1.resources
+C:\Users\profesor\source\repos\TableImages\TableImages\obj\Debug\TableImages.Properties.Resources.resources
+C:\Users\profesor\source\repos\TableImages\TableImages\obj\Debug\TableImages.csproj.GenerateResource.cache
+C:\Users\profesor\source\repos\TableImages\TableImages\obj\Debug\TableImages.csproj.CoreCompileInputs.cache
+C:\Users\profesor\source\repos\TableImages\TableImages\obj\Debug\TableImages.exe
+C:\Users\profesor\source\repos\TableImages\TableImages\obj\Debug\TableImages.pdb
+E:\C#\DE_PASTRAT\TableImages\TableImages\bin\Debug\TableImages.exe.config
+E:\C#\DE_PASTRAT\TableImages\TableImages\bin\Debug\TableImages.exe
+E:\C#\DE_PASTRAT\TableImages\TableImages\bin\Debug\TableImages.pdb
+E:\C#\DE_PASTRAT\TableImages\TableImages\obj\Debug\TableImages.Form1.resources
+E:\C#\DE_PASTRAT\TableImages\TableImages\obj\Debug\TableImages.Properties.Resources.resources
+E:\C#\DE_PASTRAT\TableImages\TableImages\obj\Debug\TableImages.csproj.GenerateResource.cache
+E:\C#\DE_PASTRAT\TableImages\TableImages\obj\Debug\TableImages.csproj.CoreCompileInputs.cache
+E:\C#\DE_PASTRAT\TableImages\TableImages\obj\Debug\TableImages.exe
+E:\C#\DE_PASTRAT\TableImages\TableImages\obj\Debug\TableImages.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\bin\Debug\TableImages.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\bin\Debug\TableImages.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\bin\Debug\TableImages.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.Form1.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.Properties.Resources.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.csproj.GenerateResource.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.pdb
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\bin\Debug\TableImages.exe.config
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\bin\Debug\TableImages.exe
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\bin\Debug\TableImages.pdb
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.Form1.resources
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.Properties.Resources.resources
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.exe
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\TableImages\TableImages\obj\Debug\TableImages.pdb

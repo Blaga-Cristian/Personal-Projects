@@ -1,0 +1,12 @@
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Ergonomic close\Ergonomic close\bin\Debug\Ergonomic close.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Ergonomic close\Ergonomic close\bin\Debug\Ergonomic close.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Ergonomic close\Ergonomic close\bin\Debug\Ergonomic close.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Ergonomic close\Ergonomic close\obj\Debug\Ergonomic close.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Ergonomic close\Ergonomic close\obj\Debug\Ergonomic close.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Ergonomic close\Ergonomic close\obj\Debug\Ergonomic_close.Form1.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Ergonomic close\Ergonomic close\obj\Debug\Ergonomic_close.Properties.Resources.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Ergonomic close\Ergonomic close\obj\Debug\Ergonomic close.csproj.GenerateResource.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Ergonomic close\Ergonomic close\obj\Debug\Ergonomic close.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Ergonomic close\Ergonomic close\obj\Debug\Ergonomic close.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Ergonomic close\Ergonomic close\obj\Debug\Ergonomic close.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Ergonomic close\Ergonomic close\obj\Debug\Ergonomic_close.AppCloseForm.resources

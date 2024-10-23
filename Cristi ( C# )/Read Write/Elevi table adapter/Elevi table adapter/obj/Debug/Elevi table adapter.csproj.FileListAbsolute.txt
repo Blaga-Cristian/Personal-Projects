@@ -1,0 +1,13 @@
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Elevi table adapter\Elevi table adapter\bin\Debug\Scoala.mdf
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Elevi table adapter\Elevi table adapter\bin\Debug\Scoala_log.ldf
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Elevi table adapter\Elevi table adapter\bin\Debug\Elevi table adapter.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Elevi table adapter\Elevi table adapter\bin\Debug\Elevi table adapter.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Elevi table adapter\Elevi table adapter\bin\Debug\Elevi table adapter.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Elevi table adapter\Elevi table adapter\obj\Debug\Elevi table adapter.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Elevi table adapter\Elevi table adapter\obj\Debug\Elevi table adapter.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Elevi table adapter\Elevi table adapter\obj\Debug\Elevi_table_adapter.Form1.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Elevi table adapter\Elevi table adapter\obj\Debug\Elevi_table_adapter.Properties.Resources.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Elevi table adapter\Elevi table adapter\obj\Debug\Elevi table adapter.csproj.GenerateResource.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Elevi table adapter\Elevi table adapter\obj\Debug\Elevi table adapter.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Elevi table adapter\Elevi table adapter\obj\Debug\Elevi table adapter.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Read Write\Elevi table adapter\Elevi table adapter\obj\Debug\Elevi table adapter.pdb

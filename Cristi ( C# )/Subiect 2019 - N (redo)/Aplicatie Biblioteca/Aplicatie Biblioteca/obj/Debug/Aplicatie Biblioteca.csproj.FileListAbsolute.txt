@@ -1,0 +1,16 @@
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie_Biblioteca.BibliotecarBiblioteca.resources
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie_Biblioteca.LogareBilblioteca.resources
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie_Biblioteca.StartBiblioteca.resources
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie_Biblioteca.Properties.Resources.resources
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\bin\Debug\DBBiblioteca.mdf
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\bin\Debug\DBBiblioteca_log.ldf
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\bin\Debug\Aplicatie Biblioteca.exe.config
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\bin\Debug\Aplicatie Biblioteca.exe
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\bin\Debug\Aplicatie Biblioteca.pdb
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.exe
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.pdb
+E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie_Biblioteca.PrevizualizareCarte.resources

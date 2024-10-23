@@ -1,0 +1,13 @@
+E:\Cristi ( C# )\Misc\Test DateTime read\DateTime read\DateTime read\bin\Debug\Date.mdf
+E:\Cristi ( C# )\Misc\Test DateTime read\DateTime read\DateTime read\bin\Debug\Date_log.ldf
+E:\Cristi ( C# )\Misc\Test DateTime read\DateTime read\DateTime read\bin\Debug\DateTime read.exe.config
+E:\Cristi ( C# )\Misc\Test DateTime read\DateTime read\DateTime read\bin\Debug\DateTime read.exe
+E:\Cristi ( C# )\Misc\Test DateTime read\DateTime read\DateTime read\bin\Debug\DateTime read.pdb
+E:\Cristi ( C# )\Misc\Test DateTime read\DateTime read\DateTime read\obj\Debug\DateTime read.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Test DateTime read\DateTime read\DateTime read\obj\Debug\DateTime read.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Test DateTime read\DateTime read\DateTime read\obj\Debug\DateTime_read.Form1.resources
+E:\Cristi ( C# )\Misc\Test DateTime read\DateTime read\DateTime read\obj\Debug\DateTime_read.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Test DateTime read\DateTime read\DateTime read\obj\Debug\DateTime read.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Test DateTime read\DateTime read\DateTime read\obj\Debug\DateTime read.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Test DateTime read\DateTime read\DateTime read\obj\Debug\DateTime read.exe
+E:\Cristi ( C# )\Misc\Test DateTime read\DateTime read\DateTime read\obj\Debug\DateTime read.pdb

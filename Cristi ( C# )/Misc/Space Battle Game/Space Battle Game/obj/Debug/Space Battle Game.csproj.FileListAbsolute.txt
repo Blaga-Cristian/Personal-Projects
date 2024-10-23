@@ -1,0 +1,11 @@
+E:\Cristi ( C# )\Misc\Space Battle Game\Space Battle Game\bin\Debug\Space Battle Game.exe.config
+E:\Cristi ( C# )\Misc\Space Battle Game\Space Battle Game\bin\Debug\Space Battle Game.exe
+E:\Cristi ( C# )\Misc\Space Battle Game\Space Battle Game\bin\Debug\Space Battle Game.pdb
+E:\Cristi ( C# )\Misc\Space Battle Game\Space Battle Game\obj\Debug\Space Battle Game.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Space Battle Game\Space Battle Game\obj\Debug\Space Battle Game.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Space Battle Game\Space Battle Game\obj\Debug\Space_Battle_Game.Form1.resources
+E:\Cristi ( C# )\Misc\Space Battle Game\Space Battle Game\obj\Debug\Space_Battle_Game.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Space Battle Game\Space Battle Game\obj\Debug\Space Battle Game.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Space Battle Game\Space Battle Game\obj\Debug\Space Battle Game.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Space Battle Game\Space Battle Game\obj\Debug\Space Battle Game.exe
+E:\Cristi ( C# )\Misc\Space Battle Game\Space Battle Game\obj\Debug\Space Battle Game.pdb

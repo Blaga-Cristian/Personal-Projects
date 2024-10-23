@@ -1,0 +1,18 @@
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\TurismDB.mdf
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\TurismDB_log.ldf
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.exe.config
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.exe
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.pdb
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.Properties.Resources.resources
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.exe
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.pdb
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmInregistrare.resources
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmStart.resources
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmVacanta.resources
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmRezervare.resources
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmAdminNou.resources
+E:\Cristi ( C# )\Subiect 2017 - N\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmVacanteleMele.resources

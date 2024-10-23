@@ -1,0 +1,16 @@
+C:\Users\Profesor\Desktop\tabara\Teorie1\Teorie1\bin\Debug\Teorie1.exe.config
+C:\Users\Profesor\Desktop\tabara\Teorie1\Teorie1\bin\Debug\Teorie1.exe
+C:\Users\Profesor\Desktop\tabara\Teorie1\Teorie1\bin\Debug\Teorie1.pdb
+C:\Users\Profesor\Desktop\tabara\Teorie1\Teorie1\obj\Debug\Teorie1.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\tabara\Teorie1\Teorie1\obj\Debug\Teorie1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\tabara\Teorie1\Teorie1\obj\Debug\Teorie1.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\tabara\Teorie1\Teorie1\obj\Debug\Teorie1.exe
+C:\Users\Profesor\Desktop\tabara\Teorie1\Teorie1\obj\Debug\Teorie1.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua1\Teorie1\Teorie1\bin\Debug\Teorie1.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua1\Teorie1\Teorie1\bin\Debug\Teorie1.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua1\Teorie1\Teorie1\bin\Debug\Teorie1.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua1\Teorie1\Teorie1\obj\Debug\Teorie1.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua1\Teorie1\Teorie1\obj\Debug\Teorie1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua1\Teorie1\Teorie1\obj\Debug\Teorie1.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua1\Teorie1\Teorie1\obj\Debug\Teorie1.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua1\Teorie1\Teorie1\obj\Debug\Teorie1.pdb

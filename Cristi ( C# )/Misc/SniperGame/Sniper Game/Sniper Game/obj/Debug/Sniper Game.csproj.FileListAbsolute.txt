@@ -1,0 +1,11 @@
+E:\Cristi ( C# )\Misc\SniperGame\Sniper Game\Sniper Game\bin\Debug\Sniper Game.exe.config
+E:\Cristi ( C# )\Misc\SniperGame\Sniper Game\Sniper Game\bin\Debug\Sniper Game.exe
+E:\Cristi ( C# )\Misc\SniperGame\Sniper Game\Sniper Game\bin\Debug\Sniper Game.pdb
+E:\Cristi ( C# )\Misc\SniperGame\Sniper Game\Sniper Game\obj\Debug\Sniper Game.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\SniperGame\Sniper Game\Sniper Game\obj\Debug\Sniper Game.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\SniperGame\Sniper Game\Sniper Game\obj\Debug\Sniper_Game.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\SniperGame\Sniper Game\Sniper Game\obj\Debug\Sniper Game.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\SniperGame\Sniper Game\Sniper Game\obj\Debug\Sniper Game.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\SniperGame\Sniper Game\Sniper Game\obj\Debug\Sniper Game.exe
+E:\Cristi ( C# )\Misc\SniperGame\Sniper Game\Sniper Game\obj\Debug\Sniper Game.pdb
+E:\Cristi ( C# )\Misc\SniperGame\Sniper Game\Sniper Game\obj\Debug\Sniper_Game.SniperGame.resources

@@ -1,0 +1,11 @@
+E:\Cristi ( C# )\Misc\Test Control Paint\Test Control Paint\bin\Debug\Test Control Paint.exe.config
+E:\Cristi ( C# )\Misc\Test Control Paint\Test Control Paint\bin\Debug\Test Control Paint.exe
+E:\Cristi ( C# )\Misc\Test Control Paint\Test Control Paint\bin\Debug\Test Control Paint.pdb
+E:\Cristi ( C# )\Misc\Test Control Paint\Test Control Paint\obj\Debug\Test Control Paint.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Test Control Paint\Test Control Paint\obj\Debug\Test Control Paint.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Test Control Paint\Test Control Paint\obj\Debug\Test_Control_Paint.Form1.resources
+E:\Cristi ( C# )\Misc\Test Control Paint\Test Control Paint\obj\Debug\Test_Control_Paint.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Test Control Paint\Test Control Paint\obj\Debug\Test Control Paint.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Test Control Paint\Test Control Paint\obj\Debug\Test Control Paint.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Test Control Paint\Test Control Paint\obj\Debug\Test Control Paint.exe
+E:\Cristi ( C# )\Misc\Test Control Paint\Test Control Paint\obj\Debug\Test Control Paint.pdb

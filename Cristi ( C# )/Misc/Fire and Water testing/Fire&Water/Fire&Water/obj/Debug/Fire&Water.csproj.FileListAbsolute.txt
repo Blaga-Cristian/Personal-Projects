@@ -1,0 +1,21 @@
+C:\Users\bbobi\OneDrive\Documente\C#\Fire&Water\Fire&Water\bin\Debug\Fire&Water.exe.config
+C:\Users\bbobi\OneDrive\Documente\C#\Fire&Water\Fire&Water\bin\Debug\Fire&Water.exe
+C:\Users\bbobi\OneDrive\Documente\C#\Fire&Water\Fire&Water\bin\Debug\Fire&Water.pdb
+C:\Users\bbobi\OneDrive\Documente\C#\Fire&Water\Fire&Water\obj\Debug\Fire&Water.csproj.AssemblyReference.cache
+C:\Users\bbobi\OneDrive\Documente\C#\Fire&Water\Fire&Water\obj\Debug\Fire_Water.Form1.resources
+C:\Users\bbobi\OneDrive\Documente\C#\Fire&Water\Fire&Water\obj\Debug\Fire_Water.Properties.Resources.resources
+C:\Users\bbobi\OneDrive\Documente\C#\Fire&Water\Fire&Water\obj\Debug\Fire&Water.csproj.GenerateResource.cache
+C:\Users\bbobi\OneDrive\Documente\C#\Fire&Water\Fire&Water\obj\Debug\Fire&Water.csproj.CoreCompileInputs.cache
+C:\Users\bbobi\OneDrive\Documente\C#\Fire&Water\Fire&Water\obj\Debug\Fire&Water.exe
+C:\Users\bbobi\OneDrive\Documente\C#\Fire&Water\Fire&Water\obj\Debug\Fire&Water.pdb
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Fire and Water testing\Fire&Water\Fire&Water\bin\Debug\Fire&Water.exe.config
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Fire and Water testing\Fire&Water\Fire&Water\bin\Debug\Fire&Water.exe
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Fire and Water testing\Fire&Water\Fire&Water\bin\Debug\Fire&Water.pdb
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Fire and Water testing\Fire&Water\Fire&Water\obj\Debug\Fire&Water.csproj.AssemblyReference.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Fire and Water testing\Fire&Water\Fire&Water\obj\Debug\Fire&Water.csproj.SuggestedBindingRedirects.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Fire and Water testing\Fire&Water\Fire&Water\obj\Debug\Fire_Water.Form1.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Fire and Water testing\Fire&Water\Fire&Water\obj\Debug\Fire_Water.Properties.Resources.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Fire and Water testing\Fire&Water\Fire&Water\obj\Debug\Fire&Water.csproj.GenerateResource.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Fire and Water testing\Fire&Water\Fire&Water\obj\Debug\Fire&Water.csproj.CoreCompileInputs.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Fire and Water testing\Fire&Water\Fire&Water\obj\Debug\Fire&Water.exe
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Fire and Water testing\Fire&Water\Fire&Water\obj\Debug\Fire&Water.pdb

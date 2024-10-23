@@ -1,0 +1,11 @@
+E:\Cristi ( C# )\Misc\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+E:\Cristi ( C# )\Misc\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+E:\Cristi ( C# )\Misc\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+E:\Cristi ( C# )\Misc\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+E:\Cristi ( C# )\Misc\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+E:\Cristi ( C# )\Misc\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb

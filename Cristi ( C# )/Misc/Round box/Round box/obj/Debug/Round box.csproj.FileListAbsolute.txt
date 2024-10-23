@@ -1,0 +1,11 @@
+E:\Cristi ( C# )\Misc\Round box\Round box\bin\Debug\Round box.exe.config
+E:\Cristi ( C# )\Misc\Round box\Round box\bin\Debug\Round box.exe
+E:\Cristi ( C# )\Misc\Round box\Round box\bin\Debug\Round box.pdb
+E:\Cristi ( C# )\Misc\Round box\Round box\obj\Debug\Round box.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Round box\Round box\obj\Debug\Round box.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Round box\Round box\obj\Debug\Round_box.Form1.resources
+E:\Cristi ( C# )\Misc\Round box\Round box\obj\Debug\Round_box.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Round box\Round box\obj\Debug\Round box.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Round box\Round box\obj\Debug\Round box.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Round box\Round box\obj\Debug\Round box.exe
+E:\Cristi ( C# )\Misc\Round box\Round box\obj\Debug\Round box.pdb

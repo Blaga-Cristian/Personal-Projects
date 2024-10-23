@@ -1,0 +1,13 @@
+E:\Cristi ( C# )\Misc\Imagine DataBase cu path\Imagine DataBase\Imagine DataBase\bin\Debug\Imagini.mdf
+E:\Cristi ( C# )\Misc\Imagine DataBase cu path\Imagine DataBase\Imagine DataBase\bin\Debug\Imagini_log.ldf
+E:\Cristi ( C# )\Misc\Imagine DataBase cu path\Imagine DataBase\Imagine DataBase\bin\Debug\Imagine DataBase.exe.config
+E:\Cristi ( C# )\Misc\Imagine DataBase cu path\Imagine DataBase\Imagine DataBase\bin\Debug\Imagine DataBase.exe
+E:\Cristi ( C# )\Misc\Imagine DataBase cu path\Imagine DataBase\Imagine DataBase\bin\Debug\Imagine DataBase.pdb
+E:\Cristi ( C# )\Misc\Imagine DataBase cu path\Imagine DataBase\Imagine DataBase\obj\Debug\Imagine DataBase.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Imagine DataBase cu path\Imagine DataBase\Imagine DataBase\obj\Debug\Imagine DataBase.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Imagine DataBase cu path\Imagine DataBase\Imagine DataBase\obj\Debug\Imagine_DataBase.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Imagine DataBase cu path\Imagine DataBase\Imagine DataBase\obj\Debug\Imagine DataBase.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Imagine DataBase cu path\Imagine DataBase\Imagine DataBase\obj\Debug\Imagine DataBase.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Imagine DataBase cu path\Imagine DataBase\Imagine DataBase\obj\Debug\Imagine DataBase.exe
+E:\Cristi ( C# )\Misc\Imagine DataBase cu path\Imagine DataBase\Imagine DataBase\obj\Debug\Imagine DataBase.pdb
+E:\Cristi ( C# )\Misc\Imagine DataBase cu path\Imagine DataBase\Imagine DataBase\obj\Debug\Imagine_DataBase.Form1.resources

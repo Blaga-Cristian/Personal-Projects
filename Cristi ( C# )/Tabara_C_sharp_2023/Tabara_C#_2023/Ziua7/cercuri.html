@@ -1,0 +1,158 @@
+<body style="background-color: lightgray">
+<canvas width="1000" height="1000" style="background-color: white;"></canvas>
+
+<script>
+    class Cerc {
+        static ctrl = false;
+        static selWithCtr = false;
+        static selected = null;
+        static selectStartX = 0;
+        static selectStartY = 0;
+        static Cercuri = [];
+        static RealCoords(event, canvas) {
+            const rect = canvas.getBoundingClientRect();
+            const x = event.clientX - rect.left;
+            const y = event.clientY - rect.top;
+            return { x, y };
+        }
+        static Add() {
+            Cerc.Cercuri.push(new Cerc(...arguments));
+        }
+        static DrawAll(ctx) {
+            Cerc.Cercuri.forEach(c => c.Draw(ctx));
+        }
+        static GetHovered(x, y) {
+            return Cerc.Cercuri.findLast(c => c.Hit(x, y));
+        }
+        constructor(x, y, r) {
+            this.X = x;
+            this.Y = y;
+            this.R = r;
+        }
+        Hit(x, y) {
+            return Math.abs(this.X - x) ** 2 + Math.abs(this.Y - y) ** 2 <= this.R ** 2;
+        }
+        get Color() {
+            return this.R > 120 ? 'green' : this.R > 50 ? 'blue' : 'yellow'; 
+        }
+        Draw(ctx) {
+            ctx.beginPath();
+            ctx.ellipse(this.X, this.Y, this.R, this.R, 0, 0, 2 * Math.PI);
+            ctx.fillStyle = 'white';
+            ctx.strokeStyle = this.Color;
+            ctx.fill();
+            ctx.stroke();
+            ctx.closePath();
+        }
+    }
+    class Line {
+        static varLine = new Line();
+        static Lines = [];
+        static DrawAll(ctx) {
+            Line.Lines.forEach(l => l.Draw(ctx));
+        }
+        static GetLines(cerc) {
+            return Line.Lines.filter(l => l.IsChildOf(cerc));
+        }
+        static LineExists(cerc1, cerc2) {
+            return Line.Lines.find(l => l.IsChildOf(cerc1) && l.IsChildOf(cerc2));
+        }
+        constructor(x1 = 0, y1 = 0, x2 = 0, y2 = 0) {
+            this.visible = true;
+            this.SetCoords(x1, y1, x2, y2);
+        }
+        SetCoords(x1, y1, x2, y2) {
+            this.X1 = x1;
+            this.Y1 = y1;
+            this.X2 = x2;
+            this.Y2 = y2;
+        }
+        IsChildOf(cerc) {
+            return (this.X1 == cerc.X && this.Y1 == cerc.Y) ||
+                (this.X2 == cerc.X && this.Y2 == cerc.Y);
+        }
+        Draw(ctx) {
+            if (!this.visible) return;
+            ctx.strokeStyle = 'red';
+            ctx.beginPath();
+            ctx.moveTo(this.X1, this.Y1);
+            ctx.lineTo(this.X2, this.Y2);
+            ctx.stroke();
+            ctx.closePath();
+        }
+    }
+
+    window.addEventListener('keydown', e => {
+        //console.log(e.key);
+        if (e.key === 'Control') Cerc.ctrl = true;
+    });
+    window.addEventListener('keyup', e => {
+        if (e.key === 'Control') Cerc.ctrl = false;
+    });
+
+    const ctx = document.querySelector('canvas').getContext('2d');
+    ctx.lineWidth = 5;
+
+    // Init Cercuri
+    Cerc.Add(100, 150, 50);
+    Cerc.Add(300, 200, 100);
+    Cerc.Add(350, 700, 200);
+    Cerc.Add(800, 500, 150);
+    Cerc.Add(500, 400, 75);
+    Cerc.Add(650, 175, 125);
+
+    Cerc.DrawAll(ctx);
+    ctx.canvas.addEventListener('mousedown', e => {
+        const realC = Cerc.RealCoords(e, ctx.canvas);
+        if (Cerc.selected = Cerc.GetHovered(realC.x, realC.y)) {
+            Cerc.selWithCtr = Cerc.ctrl;
+            Cerc.selectStartX = Cerc.selected.X - realC.x;
+            Cerc.selectStartY = Cerc.selected.Y - realC.y;
+        }
+
+    });
+    window.addEventListener('mouseup', e => {
+        const realC = Cerc.RealCoords(e, ctx.canvas);
+        let cerc2;
+        if (Cerc.selected && Cerc.selWithCtr && (cerc2 = Cerc.GetHovered(realC.x, realC.y)) && !Line.LineExists(Cerc.selected, cerc2)) {
+            Line.Lines.push(new Line(Cerc.selected.X, Cerc.selected.Y, cerc2.X, cerc2.Y));
+        }
+        Cerc.selected = null;
+        Cerc.selWithCtr = false;
+        Line.varLine.visible = false;
+        drawAll(ctx);
+    });
+    ctx.canvas.addEventListener('mousemove', e => {
+        const realC = Cerc.RealCoords(e, ctx.canvas);
+        if (Cerc.selected) {
+            if (Cerc.selWithCtr) {
+                Line.varLine.SetCoords(Cerc.selected.X, Cerc.selected.Y, realC.x, realC.y);
+                Line.varLine.visible = true;
+            } else {
+                for (let line of Line.GetLines(Cerc.selected)) {
+                    if (line.X1 == Cerc.selected.X && line.Y1 == Cerc.selected.Y) {
+                        line.X1 = Cerc.selectStartX + realC.x;
+                        line.Y1 = Cerc.selectStartY + realC.y;
+                    }
+                    else {
+                        line.X2 = Cerc.selectStartX + realC.x;
+                        line.Y2 = Cerc.selectStartY + realC.y;
+                    }
+                }
+                Cerc.selected.X = Cerc.selectStartX + realC.x;
+                Cerc.selected.Y = Cerc.selectStartY + realC.y;
+            }
+        }
+
+        drawAll(ctx);
+    });
+
+    function drawAll(ctx) {
+        ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
+        Line.DrawAll(ctx);
+        Line.varLine.Draw(ctx);
+        Cerc.DrawAll(ctx);
+    }
+    
+</script>
+</body>

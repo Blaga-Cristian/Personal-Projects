@@ -1,0 +1,30 @@
+D:\C# Proiecte\XmlApp\XmlApp\bin\Debug\net7.0\XmlApp.exe
+D:\C# Proiecte\XmlApp\XmlApp\bin\Debug\net7.0\XmlApp.deps.json
+D:\C# Proiecte\XmlApp\XmlApp\bin\Debug\net7.0\XmlApp.runtimeconfig.json
+D:\C# Proiecte\XmlApp\XmlApp\bin\Debug\net7.0\XmlApp.dll
+D:\C# Proiecte\XmlApp\XmlApp\bin\Debug\net7.0\XmlApp.pdb
+D:\C# Proiecte\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.csproj.AssemblyReference.cache
+D:\C# Proiecte\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Proiecte\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.AssemblyInfoInputs.cache
+D:\C# Proiecte\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.AssemblyInfo.cs
+D:\C# Proiecte\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.csproj.CoreCompileInputs.cache
+D:\C# Proiecte\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.dll
+D:\C# Proiecte\XmlApp\XmlApp\obj\Debug\net7.0\refint\XmlApp.dll
+D:\C# Proiecte\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.pdb
+D:\C# Proiecte\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.genruntimeconfig.cache
+D:\C# Proiecte\XmlApp\XmlApp\obj\Debug\net7.0\ref\XmlApp.dll
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\bin\Debug\net7.0\XmlApp.exe
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\bin\Debug\net7.0\XmlApp.deps.json
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\bin\Debug\net7.0\XmlApp.runtimeconfig.json
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\bin\Debug\net7.0\XmlApp.dll
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\bin\Debug\net7.0\XmlApp.pdb
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.AssemblyInfoInputs.cache
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.AssemblyInfo.cs
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.dll
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\obj\Debug\net7.0\refint\XmlApp.dll
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.pdb
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\obj\Debug\net7.0\XmlApp.genruntimeconfig.cache
+E:\Cristi ( C# )\Misc\XmlApp\XmlApp\obj\Debug\net7.0\ref\XmlApp.dll

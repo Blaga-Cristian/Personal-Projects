@@ -1,0 +1,34 @@
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\FreeBook.mdf
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\FreeBook_log.ldf
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.Properties.Resources.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.GenerateResource.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.CreazaContFreeBook.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.FreeBookHome.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.LogareFreeBooks.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.MeniuFreeBookForm.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2019\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.AfiseazaCarte.resources
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\FreeBook.mdf
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\FreeBook_log.ldf
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.exe.config
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.exe
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.pdb
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.AfiseazaCarte.resources
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.CreazaContFreeBook.resources
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.FreeBookHome.resources
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.LogareFreeBooks.resources
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.MeniuFreeBookForm.resources
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.Properties.Resources.resources
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.exe
+E:\Cristi ( C# )\Subiect 2019 - J\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.pdb

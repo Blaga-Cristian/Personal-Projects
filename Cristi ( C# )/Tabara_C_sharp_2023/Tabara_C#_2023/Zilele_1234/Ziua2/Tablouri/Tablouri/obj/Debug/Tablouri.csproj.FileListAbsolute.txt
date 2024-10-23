@@ -1,0 +1,16 @@
+C:\Users\Profesor\Desktop\tabara\Ziua2\Tablouri\Tablouri\bin\Debug\Tablouri.exe.config
+C:\Users\Profesor\Desktop\tabara\Ziua2\Tablouri\Tablouri\bin\Debug\Tablouri.exe
+C:\Users\Profesor\Desktop\tabara\Ziua2\Tablouri\Tablouri\bin\Debug\Tablouri.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua2\Tablouri\Tablouri\obj\Debug\Tablouri.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\Tablouri\Tablouri\obj\Debug\Tablouri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\Tablouri\Tablouri\obj\Debug\Tablouri.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\Tablouri\Tablouri\obj\Debug\Tablouri.exe
+C:\Users\Profesor\Desktop\tabara\Ziua2\Tablouri\Tablouri\obj\Debug\Tablouri.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Tablouri\Tablouri\bin\Debug\Tablouri.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Tablouri\Tablouri\bin\Debug\Tablouri.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Tablouri\Tablouri\bin\Debug\Tablouri.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Tablouri\Tablouri\obj\Debug\Tablouri.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Tablouri\Tablouri\obj\Debug\Tablouri.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Tablouri\Tablouri\obj\Debug\Tablouri.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Tablouri\Tablouri\obj\Debug\Tablouri.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Tablouri\Tablouri\obj\Debug\Tablouri.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesenRecursiv", "DesenRecursiv\DesenRecursiv.csproj", "{FDF6590C-DD6F-4233-81B7-71F251FB4777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF6590C-DD6F-4233-81B7-71F251FB4777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF6590C-DD6F-4233-81B7-71F251FB4777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF6590C-DD6F-4233-81B7-71F251FB4777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF6590C-DD6F-4233-81B7-71F251FB4777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {769308F4-DA2C-42BE-AD07-9D32FE0E9E88}
+	EndGlobalSection
+EndGlobal

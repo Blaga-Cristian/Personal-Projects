@@ -1,0 +1,16 @@
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\bin\Debug\Poluare.mdf
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\bin\Debug\Poluare_log.ldf
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe.config
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\bin\Debug\PollutionMap.pdb
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Form1.resources
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Inregistrare.resources
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Properties.Resources.resources
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Vizualizare.resources
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\obj\Debug\PollutionMap.exe
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\obj\Debug\PollutionMap.pdb
+E:\Cristi ( C# )\Subiect 2022 - J\PollutionMap\PollutionMap\obj\Debug\PollutionMap.AdaugareMasurare.resources

@@ -1,0 +1,44 @@
+C:\Users\Elev\source\repos\PM\PM\bin\Debug\PM.exe.config
+C:\Users\Elev\source\repos\PM\PM\bin\Debug\PM.exe
+C:\Users\Elev\source\repos\PM\PM\bin\Debug\PM.pdb
+C:\Users\Elev\source\repos\PM\PM\obj\Debug\PM.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\PM\PM\obj\Debug\PM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elev\source\repos\PM\PM\obj\Debug\PM.AuthForm.resources
+C:\Users\Elev\source\repos\PM\PM\obj\Debug\PM.Properties.Resources.resources
+C:\Users\Elev\source\repos\PM\PM\obj\Debug\PM.csproj.GenerateResource.cache
+C:\Users\Elev\source\repos\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\PM\PM\obj\Debug\PM.exe
+C:\Users\Elev\source\repos\PM\PM\obj\Debug\PM.pdb
+C:\Users\Elev\source\repos\PM\PM\bin\Debug\PoluareDB.mdf
+C:\Users\Elev\source\repos\PM\PM\bin\Debug\PoluareDB_log.ldf
+C:\Users\Elev\source\repos\PM\PM\obj\Debug\PM.InregForm.resources
+D:\11A\PM\PM\bin\Debug\PoluareDB.mdf
+D:\11A\PM\PM\bin\Debug\PoluareDB_log.ldf
+D:\11A\PM\PM\bin\Debug\PM.exe.config
+D:\11A\PM\PM\bin\Debug\PM.exe
+D:\11A\PM\PM\bin\Debug\PM.pdb
+D:\11A\PM\PM\obj\Debug\PM.csproj.AssemblyReference.cache
+D:\11A\PM\PM\obj\Debug\PM.AuthForm.resources
+D:\11A\PM\PM\obj\Debug\PM.InregForm.resources
+D:\11A\PM\PM\obj\Debug\PM.Properties.Resources.resources
+D:\11A\PM\PM\obj\Debug\PM.csproj.GenerateResource.cache
+D:\11A\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+D:\11A\PM\PM\obj\Debug\PM.exe
+D:\11A\PM\PM\obj\Debug\PM.pdb
+D:\11A\PM\PM\obj\Debug\PM.csproj.SuggestedBindingRedirects.cache
+D:\11A\PM\PM\obj\Debug\PM.VizualizareForm.resources
+C:\Users\Profesor\source\repos\PM\PM\PM\bin\Debug\PM.exe.config
+C:\Users\Profesor\source\repos\PM\PM\PM\bin\Debug\PM.exe
+C:\Users\Profesor\source\repos\PM\PM\PM\bin\Debug\PM.pdb
+C:\Users\Profesor\source\repos\PM\PM\PM\obj\Debug\PM.csproj.AssemblyReference.cache
+C:\Users\Profesor\source\repos\PM\PM\PM\obj\Debug\PM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\source\repos\PM\PM\PM\obj\Debug\PM.Properties.Resources.resources
+C:\Users\Profesor\source\repos\PM\PM\PM\obj\Debug\PM.VizualizareForm.resources
+C:\Users\Profesor\source\repos\PM\PM\PM\obj\Debug\PM.csproj.GenerateResource.cache
+C:\Users\Profesor\source\repos\PM\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\PM\PM\PM\obj\Debug\PM.exe
+C:\Users\Profesor\source\repos\PM\PM\PM\obj\Debug\PM.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua6\DesenLinieTimer\PM\PM\obj\Debug\PM.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua6\DesenLinieTimer\PM\PM\obj\Debug\PM.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua6\DesenLinieTimer\PM\PM\obj\Debug\PM.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua6\DesenLinieTimer\PM\PM\obj\Debug\PM.pdb

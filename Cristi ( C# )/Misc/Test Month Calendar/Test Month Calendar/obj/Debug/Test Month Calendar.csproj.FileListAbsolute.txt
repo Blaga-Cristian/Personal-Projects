@@ -1,0 +1,11 @@
+E:\Cristi ( C# )\Misc\Test Month Calendar\Test Month Calendar\bin\Debug\Test Month Calendar.exe.config
+E:\Cristi ( C# )\Misc\Test Month Calendar\Test Month Calendar\bin\Debug\Test Month Calendar.exe
+E:\Cristi ( C# )\Misc\Test Month Calendar\Test Month Calendar\bin\Debug\Test Month Calendar.pdb
+E:\Cristi ( C# )\Misc\Test Month Calendar\Test Month Calendar\obj\Debug\Test Month Calendar.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Test Month Calendar\Test Month Calendar\obj\Debug\Test Month Calendar.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Test Month Calendar\Test Month Calendar\obj\Debug\Test_Month_Calendar.Form1.resources
+E:\Cristi ( C# )\Misc\Test Month Calendar\Test Month Calendar\obj\Debug\Test_Month_Calendar.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Test Month Calendar\Test Month Calendar\obj\Debug\Test Month Calendar.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Test Month Calendar\Test Month Calendar\obj\Debug\Test Month Calendar.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Test Month Calendar\Test Month Calendar\obj\Debug\Test Month Calendar.exe
+E:\Cristi ( C# )\Misc\Test Month Calendar\Test Month Calendar\obj\Debug\Test Month Calendar.pdb

@@ -1,0 +1,51 @@
+E:\AAA_Teme\Info\WindowsFormsApp8\bin\Debug\Database1.mdf
+E:\AAA_Teme\Info\WindowsFormsApp8\bin\Debug\Database1_log.ldf
+E:\AAA_Teme\Info\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+E:\AAA_Teme\Info\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+E:\AAA_Teme\Info\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+E:\AAA_Teme\Info\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+E:\AAA_Teme\Info\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+E:\AAA_Teme\Info\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+E:\AAA_Teme\Info\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+E:\AAA_Teme\Info\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+E:\AAA_Teme\Info\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+E:\AAA_Teme\Info\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\bbobi\OneDrive\Documente\WindowsFormsApp8[1]\WindowsFormsApp8\bin\Debug\Database1.mdf
+C:\Users\bbobi\OneDrive\Documente\WindowsFormsApp8[1]\WindowsFormsApp8\bin\Debug\Database1_log.ldf
+C:\Users\bbobi\OneDrive\Documente\WindowsFormsApp8[1]\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\bbobi\OneDrive\Documente\WindowsFormsApp8[1]\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\bbobi\OneDrive\Documente\WindowsFormsApp8[1]\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\bbobi\OneDrive\Documente\WindowsFormsApp8[1]\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\bbobi\OneDrive\Documente\WindowsFormsApp8[1]\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+C:\Users\bbobi\OneDrive\Documente\WindowsFormsApp8[1]\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\bbobi\OneDrive\Documente\WindowsFormsApp8[1]\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\bbobi\OneDrive\Documente\WindowsFormsApp8[1]\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\bbobi\OneDrive\Documente\WindowsFormsApp8[1]\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\bbobi\OneDrive\Documente\WindowsFormsApp8[1]\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\bbobi\OneDrive\Documente\WindowsFormsApp8[1]\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\bbobi\OneDrive\Documente\C#\Inserare imagini\WindowsFormsApp8\bin\Debug\Database1.mdf
+C:\Users\bbobi\OneDrive\Documente\C#\Inserare imagini\WindowsFormsApp8\bin\Debug\Database1_log.ldf
+C:\Users\bbobi\OneDrive\Documente\C#\Inserare imagini\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\bbobi\OneDrive\Documente\C#\Inserare imagini\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\bbobi\OneDrive\Documente\C#\Inserare imagini\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\bbobi\OneDrive\Documente\C#\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\bbobi\OneDrive\Documente\C#\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+C:\Users\bbobi\OneDrive\Documente\C#\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\bbobi\OneDrive\Documente\C#\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\bbobi\OneDrive\Documente\C#\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\bbobi\OneDrive\Documente\C#\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\bbobi\OneDrive\Documente\C#\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\bbobi\OneDrive\Documente\C#\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+E:\Cristi ( C# )\Misc\Inserare imagini\WindowsFormsApp8\bin\Debug\Database1.mdf
+E:\Cristi ( C# )\Misc\Inserare imagini\WindowsFormsApp8\bin\Debug\Database1_log.ldf
+E:\Cristi ( C# )\Misc\Inserare imagini\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+E:\Cristi ( C# )\Misc\Inserare imagini\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+E:\Cristi ( C# )\Misc\Inserare imagini\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+E:\Cristi ( C# )\Misc\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+E:\Cristi ( C# )\Misc\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+E:\Cristi ( C# )\Misc\Inserare imagini\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb

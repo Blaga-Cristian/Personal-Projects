@@ -1,0 +1,11 @@
+E:\Cristi ( C# )\Misc\Guessing game\Guessing game\bin\Debug\Guessing game.exe.config
+E:\Cristi ( C# )\Misc\Guessing game\Guessing game\bin\Debug\Guessing game.exe
+E:\Cristi ( C# )\Misc\Guessing game\Guessing game\bin\Debug\Guessing game.pdb
+E:\Cristi ( C# )\Misc\Guessing game\Guessing game\obj\Debug\Guessing game.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Guessing game\Guessing game\obj\Debug\Guessing game.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Guessing game\Guessing game\obj\Debug\Guessing_game.Form1.resources
+E:\Cristi ( C# )\Misc\Guessing game\Guessing game\obj\Debug\Guessing_game.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Guessing game\Guessing game\obj\Debug\Guessing game.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Guessing game\Guessing game\obj\Debug\Guessing game.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Guessing game\Guessing game\obj\Debug\Guessing game.exe
+E:\Cristi ( C# )\Misc\Guessing game\Guessing game\obj\Debug\Guessing game.pdb

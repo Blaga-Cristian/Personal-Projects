@@ -1,0 +1,26 @@
+C:\Users\Profesor\Desktop\tabara\Ziua3\BazeDateProgramatic\BazeDateProgramatic\bin\Debug\FirmaDB.mdf
+C:\Users\Profesor\Desktop\tabara\Ziua3\BazeDateProgramatic\BazeDateProgramatic\bin\Debug\FirmaDB_log.ldf
+C:\Users\Profesor\Desktop\tabara\Ziua3\BazeDateProgramatic\BazeDateProgramatic\bin\Debug\BazeDateProgramatic.exe.config
+C:\Users\Profesor\Desktop\tabara\Ziua3\BazeDateProgramatic\BazeDateProgramatic\bin\Debug\BazeDateProgramatic.exe
+C:\Users\Profesor\Desktop\tabara\Ziua3\BazeDateProgramatic\BazeDateProgramatic\bin\Debug\BazeDateProgramatic.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\tabara\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\tabara\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.FormAngajati.resources
+C:\Users\Profesor\Desktop\tabara\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.Properties.Resources.resources
+C:\Users\Profesor\Desktop\tabara\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\tabara\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\tabara\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.exe
+C:\Users\Profesor\Desktop\tabara\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua3\BazeDateProgramatic\BazeDateProgramatic\bin\Debug\FirmaDB.mdf
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua3\BazeDateProgramatic\BazeDateProgramatic\bin\Debug\FirmaDB_log.ldf
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua3\BazeDateProgramatic\BazeDateProgramatic\bin\Debug\BazeDateProgramatic.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua3\BazeDateProgramatic\BazeDateProgramatic\bin\Debug\BazeDateProgramatic.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua3\BazeDateProgramatic\BazeDateProgramatic\bin\Debug\BazeDateProgramatic.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.FormAngajati.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.Properties.Resources.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.csproj.GenerateResource.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua3\BazeDateProgramatic\BazeDateProgramatic\obj\Debug\BazeDateProgramatic.pdb

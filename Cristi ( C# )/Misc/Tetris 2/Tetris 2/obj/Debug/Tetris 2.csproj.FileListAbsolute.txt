@@ -1,0 +1,22 @@
+E:\Cristi ( C# )\Misc\Tetris 2\Tetris 2\bin\Debug\Tetris 2.exe.config
+E:\Cristi ( C# )\Misc\Tetris 2\Tetris 2\bin\Debug\Tetris 2.exe
+E:\Cristi ( C# )\Misc\Tetris 2\Tetris 2\bin\Debug\Tetris 2.pdb
+E:\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris 2.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris 2.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris_2.Form1.resources
+E:\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris_2.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris 2.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris 2.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris 2.exe
+E:\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris 2.pdb
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris 2\Tetris 2\bin\Debug\Tetris 2.exe.config
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris 2\Tetris 2\bin\Debug\Tetris 2.exe
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris 2\Tetris 2\bin\Debug\Tetris 2.pdb
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris 2.csproj.AssemblyReference.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris_2.Form1.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris_2.Properties.Resources.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris 2.csproj.GenerateResource.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris 2.csproj.CoreCompileInputs.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris 2.exe
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris 2\Tetris 2\obj\Debug\Tetris 2.pdb

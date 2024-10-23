@@ -1,0 +1,42 @@
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turism.mdf
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turism_log.ldf
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turismul_Durabil.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turismul_Durabil.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turismul_Durabil.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.GenerarePoster.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.Properties.Resources.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.csproj.GenerateResource.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2017\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.Vizualizare_excursie.resources
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turism.mdf
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turism_log.ldf
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turismul_Durabil.exe.config
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turismul_Durabil.exe
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turismul_Durabil.pdb
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.GenerarePoster.resources
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.Properties.Resources.resources
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.Vizualizare_excursie.resources
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.exe
+E:\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.pdb
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turism.mdf
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turism_log.ldf
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turismul_Durabil.exe.config
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turismul_Durabil.exe
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\bin\Debug\Turismul_Durabil.pdb
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.csproj.AssemblyReference.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.csproj.SuggestedBindingRedirects.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.GenerarePoster.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.Properties.Resources.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.Vizualizare_excursie.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.csproj.GenerateResource.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.csproj.CoreCompileInputs.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.exe
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2017 - J\Turismul_Durabil\Turismul_Durabil\obj\Debug\Turismul_Durabil.pdb

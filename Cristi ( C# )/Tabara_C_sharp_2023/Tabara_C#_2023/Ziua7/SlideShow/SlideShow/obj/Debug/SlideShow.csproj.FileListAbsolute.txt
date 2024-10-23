@@ -1,0 +1,22 @@
+C:\Users\Profesor\Desktop\tabara\Ziua7\SlideShow\SlideShow\bin\Debug\SlideShow.exe.config
+C:\Users\Profesor\Desktop\tabara\Ziua7\SlideShow\SlideShow\bin\Debug\SlideShow.exe
+C:\Users\Profesor\Desktop\tabara\Ziua7\SlideShow\SlideShow\bin\Debug\SlideShow.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\tabara\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\tabara\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\Users\Profesor\Desktop\tabara\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Users\Profesor\Desktop\tabara\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\tabara\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\tabara\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.exe
+C:\Users\Profesor\Desktop\tabara\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\SlideShow\SlideShow\bin\Debug\SlideShow.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\SlideShow\SlideShow\bin\Debug\SlideShow.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\SlideShow\SlideShow\bin\Debug\SlideShow.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\SlideShow\SlideShow\obj\Debug\SlideShow.pdb

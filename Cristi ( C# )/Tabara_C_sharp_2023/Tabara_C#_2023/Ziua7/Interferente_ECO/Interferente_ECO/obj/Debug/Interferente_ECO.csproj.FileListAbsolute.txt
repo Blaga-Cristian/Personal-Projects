@@ -1,0 +1,57 @@
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\bin\Debug\Interferente_ECO.exe.config
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\bin\Debug\Interferente_ECO.exe
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\bin\Debug\Interferente_ECO.pdb
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.Properties.Resources.resources
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.exe
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.pdb
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.DirectieRobotForm.resources
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.InterfeteEcoForm.resources
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.GameOverForm.resources
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.FinishForm.resources
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.ExitApplicationForm.resources
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.LogareForm.resources
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\bin\Debug\EcoDB.mdf
+C:\Users\User\Desktop\OTI_2022_national\Interferente_ECO\Interferente_ECO\bin\Debug\EcoDB_log.ldf
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\bin\Debug\EcoDB.mdf
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\bin\Debug\EcoDB_log.ldf
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\bin\Debug\Interferente_ECO.exe.config
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\bin\Debug\Interferente_ECO.exe
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\bin\Debug\Interferente_ECO.pdb
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.DirectieRobotForm.resources
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.ExitApplicationForm.resources
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.FinishForm.resources
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.GameOverForm.resources
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.InterfeteEcoForm.resources
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.LogareForm.resources
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.Properties.Resources.resources
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.exe
+C:\Users\Profesor\Desktop\Resurse_C#\IMPORTANT\OTI_2022_national\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.pdb
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\bin\Debug\EcoDB.mdf
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\bin\Debug\EcoDB_log.ldf
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\bin\Debug\Interferente_ECO.exe.config
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\bin\Debug\Interferente_ECO.exe
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\bin\Debug\Interferente_ECO.pdb
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.DirectieRobotForm.resources
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.ExitApplicationForm.resources
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.FinishForm.resources
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.GameOverForm.resources
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.InterfeteEcoForm.resources
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.LogareForm.resources
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.Properties.Resources.resources
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.exe
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua7\Interferente_ECO\Interferente_ECO\obj\Debug\Interferente_ECO.pdb

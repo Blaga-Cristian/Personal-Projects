@@ -1,0 +1,13 @@
+E:\Cristi ( C# )\Misc\Image data base\Image data base\bin\Debug\Imagini.mdf
+E:\Cristi ( C# )\Misc\Image data base\Image data base\bin\Debug\Imagini_log.ldf
+E:\Cristi ( C# )\Misc\Image data base\Image data base\bin\Debug\Image data base.exe.config
+E:\Cristi ( C# )\Misc\Image data base\Image data base\bin\Debug\Image data base.exe
+E:\Cristi ( C# )\Misc\Image data base\Image data base\bin\Debug\Image data base.pdb
+E:\Cristi ( C# )\Misc\Image data base\Image data base\obj\Debug\Image data base.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Image data base\Image data base\obj\Debug\Image data base.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Image data base\Image data base\obj\Debug\Image_data_base.Form1.resources
+E:\Cristi ( C# )\Misc\Image data base\Image data base\obj\Debug\Image_data_base.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Image data base\Image data base\obj\Debug\Image data base.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Image data base\Image data base\obj\Debug\Image data base.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Image data base\Image data base\obj\Debug\Image data base.exe
+E:\Cristi ( C# )\Misc\Image data base\Image data base\obj\Debug\Image data base.pdb

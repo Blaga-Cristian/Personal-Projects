@@ -1,0 +1,16 @@
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\bin\Debug\Biblioteca.mdf
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\bin\Debug\Biblioteca_log.ldf
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\bin\Debug\AplicatieBiblioteca.exe.config
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\bin\Debug\AplicatieBiblioteca.exe
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\bin\Debug\AplicatieBiblioteca.pdb
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\obj\Debug\AplicatieBiblioteca.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\obj\Debug\AplicatieBiblioteca.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\obj\Debug\AplicatieBiblioteca.Properties.Resources.resources
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\obj\Debug\AplicatieBiblioteca.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\obj\Debug\AplicatieBiblioteca.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\obj\Debug\AplicatieBiblioteca.exe
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\obj\Debug\AplicatieBiblioteca.pdb
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\obj\Debug\AplicatieBiblioteca.StartBiblioteca.resources
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\obj\Debug\AplicatieBiblioteca.LogareBiblioteca.resources
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\obj\Debug\AplicatieBiblioteca.BibliotecarBiblioteca.resources
+E:\Cristi ( C# )\Subiect 2019 - N\AplicatieBiblioteca\AplicatieBiblioteca\obj\Debug\AplicatieBiblioteca.PrevizualizareCarte.resources

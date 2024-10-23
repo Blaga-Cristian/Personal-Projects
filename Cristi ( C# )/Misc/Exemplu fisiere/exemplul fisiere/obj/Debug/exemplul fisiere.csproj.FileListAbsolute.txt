@@ -1,0 +1,13 @@
+C:\Users\nicul\source\repos\exemplul fisiere\exemplul fisiere\bin\Debug\Produse.mdf
+C:\Users\nicul\source\repos\exemplul fisiere\exemplul fisiere\bin\Debug\Produse_log.ldf
+C:\Users\nicul\source\repos\exemplul fisiere\exemplul fisiere\bin\Debug\exemplul fisiere.exe.config
+C:\Users\nicul\source\repos\exemplul fisiere\exemplul fisiere\bin\Debug\exemplul fisiere.exe
+C:\Users\nicul\source\repos\exemplul fisiere\exemplul fisiere\bin\Debug\exemplul fisiere.pdb
+C:\Users\nicul\source\repos\exemplul fisiere\exemplul fisiere\obj\Debug\exemplul fisiere.csproj.AssemblyReference.cache
+C:\Users\nicul\source\repos\exemplul fisiere\exemplul fisiere\obj\Debug\exemplul fisiere.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicul\source\repos\exemplul fisiere\exemplul fisiere\obj\Debug\exemplul_fisiere.Form1.resources
+C:\Users\nicul\source\repos\exemplul fisiere\exemplul fisiere\obj\Debug\exemplul_fisiere.Properties.Resources.resources
+C:\Users\nicul\source\repos\exemplul fisiere\exemplul fisiere\obj\Debug\exemplul fisiere.csproj.GenerateResource.cache
+C:\Users\nicul\source\repos\exemplul fisiere\exemplul fisiere\obj\Debug\exemplul fisiere.csproj.CoreCompileInputs.cache
+C:\Users\nicul\source\repos\exemplul fisiere\exemplul fisiere\obj\Debug\exemplul fisiere.exe
+C:\Users\nicul\source\repos\exemplul fisiere\exemplul fisiere\obj\Debug\exemplul fisiere.pdb

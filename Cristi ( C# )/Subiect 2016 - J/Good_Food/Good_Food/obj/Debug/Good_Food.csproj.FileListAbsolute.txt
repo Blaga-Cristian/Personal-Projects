@@ -1,0 +1,51 @@
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\bin\Debug\GOOD_FOOD.mdf
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\bin\Debug\GOOD_FOOD_log.ldf
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\bin\Debug\Good_Food.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\bin\Debug\Good_Food.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\bin\Debug\Good_Food.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.Properties.Resources.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.GenerateResource.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.Autentificare_client.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.Creare_cont_client.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.Start.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.Optiuni.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.Vizualizare.resources
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\bin\Debug\GOOD_FOOD.mdf
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\bin\Debug\GOOD_FOOD_log.ldf
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\bin\Debug\Good_Food.exe.config
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\bin\Debug\Good_Food.exe
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\bin\Debug\Good_Food.pdb
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.Autentificare_client.resources
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.Creare_cont_client.resources
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.Optiuni.resources
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.Properties.Resources.resources
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.Start.resources
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.Vizualizare.resources
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.exe
+E:\Cristi ( C# )\Subiect 2016\Good_Food\Good_Food\obj\Debug\Good_Food.pdb
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\bin\Debug\GOOD_FOOD.mdf
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\bin\Debug\GOOD_FOOD_log.ldf
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\bin\Debug\Good_Food.exe.config
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\bin\Debug\Good_Food.exe
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\bin\Debug\Good_Food.pdb
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\obj\Debug\Good_Food.Autentificare_client.resources
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\obj\Debug\Good_Food.Creare_cont_client.resources
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\obj\Debug\Good_Food.Optiuni.resources
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\obj\Debug\Good_Food.Properties.Resources.resources
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\obj\Debug\Good_Food.Start.resources
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\obj\Debug\Good_Food.Vizualizare.resources
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\obj\Debug\Good_Food.exe
+E:\Cristi ( C# )\Subiect 2016 - J\Good_Food\Good_Food\obj\Debug\Good_Food.pdb

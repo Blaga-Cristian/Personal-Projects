@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<catalog>
+  <book id = "book01">
+    <author>Mihai Eminescu</author>
+    <title>Luceafarul</title>
+    <price>25.00</price>
+    <description>„Luceafărul” este una dintre cele mai cunoscute poezii ale lui Mihai Eminescu.</description>
+  </book>
+
+  <book id = "book02">
+    <author>Niccolò Machiavelli</author>
+    <title>The Prince</title>
+    <price>49.99</price>
+    <description>A fost scrisă în 1513, pe când se afla exilat în San Casciano, acuzat fiind de complot împotriva familiei Medici, și publicată în 1532, la 5 ani după moartea autorului.</description>
+  </book>
+
+</catalog>

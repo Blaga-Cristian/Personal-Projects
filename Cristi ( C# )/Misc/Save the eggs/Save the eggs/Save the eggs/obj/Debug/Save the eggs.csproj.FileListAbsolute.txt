@@ -1,0 +1,11 @@
+E:\Cristi ( C# )\Misc\Save the eggs\Save the eggs\Save the eggs\bin\Debug\Save the eggs.exe.config
+E:\Cristi ( C# )\Misc\Save the eggs\Save the eggs\Save the eggs\bin\Debug\Save the eggs.exe
+E:\Cristi ( C# )\Misc\Save the eggs\Save the eggs\Save the eggs\bin\Debug\Save the eggs.pdb
+E:\Cristi ( C# )\Misc\Save the eggs\Save the eggs\Save the eggs\obj\Debug\Save the eggs.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Save the eggs\Save the eggs\Save the eggs\obj\Debug\Save the eggs.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Save the eggs\Save the eggs\Save the eggs\obj\Debug\Save_the_eggs.Form1.resources
+E:\Cristi ( C# )\Misc\Save the eggs\Save the eggs\Save the eggs\obj\Debug\Save_the_eggs.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Save the eggs\Save the eggs\Save the eggs\obj\Debug\Save the eggs.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Save the eggs\Save the eggs\Save the eggs\obj\Debug\Save the eggs.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Save the eggs\Save the eggs\Save the eggs\obj\Debug\Save the eggs.exe
+E:\Cristi ( C# )\Misc\Save the eggs\Save the eggs\Save the eggs\obj\Debug\Save the eggs.pdb

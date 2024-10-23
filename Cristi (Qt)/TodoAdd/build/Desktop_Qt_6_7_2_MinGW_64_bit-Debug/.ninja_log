@@ -1,0 +1,68 @@
+# ninja log v6
+11	136	7483604351677471	TodoAdd_autogen/timestamp	93bcfae87bd8398f
+491	2048	7483603588179332	CMakeFiles/TodoAdd.dir/main.cpp.obj	89ec4cd69936dbae
+11	136	7483604351677471	TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+488	2020	7483603588148563	CMakeFiles/TodoAdd.dir/TodoAdd_autogen/mocs_compilation.cpp.obj	d05e9cf0a5193474
+11	136	7483604351677471	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/timestamp	93bcfae87bd8398f
+11	136	7483604351677471	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+137	1502	7483604352936357	CMakeFiles/TodoAdd.dir/mainwindow.cpp.obj	86c252b84b49be46
+1502	1681	7483604366598593	TodoAdd.exe	97c8be84de5c4251
+20	829	7483626440602245	TodoAdd_autogen/timestamp	93bcfae87bd8398f
+20	829	7483626440602245	TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+20	829	7483626440602245	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/timestamp	93bcfae87bd8398f
+20	829	7483626440602245	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+843	3336	7483626441362090	CMakeFiles/TodoAdd.dir/task.cpp.obj	3eaea505add9beb7
+835	3337	7483626441276984	CMakeFiles/TodoAdd.dir/main.cpp.obj	89ec4cd69936dbae
+830	3388	7483626441233023	CMakeFiles/TodoAdd.dir/TodoAdd_autogen/mocs_compilation.cpp.obj	d05e9cf0a5193474
+839	3654	7483626441318888	CMakeFiles/TodoAdd.dir/mainwindow.cpp.obj	86c252b84b49be46
+3655	3881	7483626469481990	TodoAdd.exe	948e3013bc660bbe
+9	561	7483630295816792	TodoAdd_autogen/timestamp	93bcfae87bd8398f
+9	561	7483630295816792	TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+9	561	7483630295816792	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/timestamp	93bcfae87bd8398f
+9	561	7483630295816792	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+565	2234	7483630296355151	CMakeFiles/TodoAdd.dir/main.cpp.obj	89ec4cd69936dbae
+561	2262	7483630296314732	CMakeFiles/TodoAdd.dir/TodoAdd_autogen/mocs_compilation.cpp.obj	d05e9cf0a5193474
+568	2464	7483630296384769	CMakeFiles/TodoAdd.dir/mainwindow.cpp.obj	86c252b84b49be46
+572	2467	7483630296428334	CMakeFiles/TodoAdd.dir/task.cpp.obj	3eaea505add9beb7
+2467	2700	7483630315371563	TodoAdd.exe	948e3013bc660bbe
+17	798	7483642431804848	TodoAdd_autogen/timestamp	93bcfae87bd8398f
+17	798	7483642431804848	TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+17	798	7483642431804848	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/timestamp	93bcfae87bd8398f
+17	798	7483642431804848	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+804	3258	7483642432592225	CMakeFiles/TodoAdd.dir/main.cpp.obj	89ec4cd69936dbae
+799	3300	7483642432541074	CMakeFiles/TodoAdd.dir/TodoAdd_autogen/mocs_compilation.cpp.obj	d05e9cf0a5193474
+813	3512	7483642432675668	CMakeFiles/TodoAdd.dir/task.cpp.obj	3eaea505add9beb7
+808	3548	7483642432635656	CMakeFiles/TodoAdd.dir/mainwindow.cpp.obj	86c252b84b49be46
+3548	3776	7483642460034857	TodoAdd.exe	948e3013bc660bbe
+9	545	7483645816594833	TodoAdd_autogen/timestamp	93bcfae87bd8398f
+9	545	7483645816594833	TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+9	545	7483645816594833	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/timestamp	93bcfae87bd8398f
+9	545	7483645816594833	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+550	2485	7483645817194883	CMakeFiles/TodoAdd.dir/main.cpp.obj	89ec4cd69936dbae
+546	2569	7483645817154835	CMakeFiles/TodoAdd.dir/TodoAdd_autogen/mocs_compilation.cpp.obj	d05e9cf0a5193474
+558	2820	7483645817276974	CMakeFiles/TodoAdd.dir/task.cpp.obj	3eaea505add9beb7
+554	2936	7483645817224850	CMakeFiles/TodoAdd.dir/mainwindow.cpp.obj	86c252b84b49be46
+2936	3253	7483645841056325	TodoAdd.exe	948e3013bc660bbe
+9	549	7483649106508156	TodoAdd_autogen/timestamp	93bcfae87bd8398f
+9	549	7483649106508156	TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+9	549	7483649106508156	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/timestamp	93bcfae87bd8398f
+9	549	7483649106508156	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+552	2429	7483649107025832	CMakeFiles/TodoAdd.dir/main.cpp.obj	89ec4cd69936dbae
+549	2663	7483649106995559	CMakeFiles/TodoAdd.dir/TodoAdd_autogen/mocs_compilation.cpp.obj	d05e9cf0a5193474
+556	2737	7483649107065994	CMakeFiles/TodoAdd.dir/mainwindow.cpp.obj	86c252b84b49be46
+560	2802	7483649107100265	CMakeFiles/TodoAdd.dir/task.cpp.obj	3eaea505add9beb7
+2802	3080	7483649129521975	TodoAdd.exe	948e3013bc660bbe
+10	498	7483657524645717	TodoAdd_autogen/timestamp	93bcfae87bd8398f
+10	498	7483657524645717	TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+10	498	7483657524645717	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/timestamp	93bcfae87bd8398f
+10	498	7483657524645717	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+502	2162	7483657525164145	CMakeFiles/TodoAdd.dir/main.cpp.obj	89ec4cd69936dbae
+499	2244	7483657525134149	CMakeFiles/TodoAdd.dir/TodoAdd_autogen/mocs_compilation.cpp.obj	d05e9cf0a5193474
+509	2444	7483657525231019	CMakeFiles/TodoAdd.dir/task.cpp.obj	3eaea505add9beb7
+10	158	7483658025166464	TodoAdd_autogen/timestamp	93bcfae87bd8398f
+10	158	7483658025166464	TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+10	158	7483658025166464	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/timestamp	93bcfae87bd8398f
+10	158	7483658025166464	C:/Users/AAAA/Documents/Blaga/Cristi (Qt)/TodoAdd/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TodoAdd_autogen/mocs_compilation.cpp	93bcfae87bd8398f
+161	2014	7483658026689331	CMakeFiles/TodoAdd.dir/task.cpp.obj	3eaea505add9beb7
+158	2206	7483658026656615	CMakeFiles/TodoAdd.dir/mainwindow.cpp.obj	86c252b84b49be46
+2206	2510	7483658047129272	TodoAdd.exe	948e3013bc660bbe

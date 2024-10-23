@@ -1,0 +1,15 @@
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe.config
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\bin\Debug\PollutionMap.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.AutentificareForm.resources
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Properties.Resources.resources
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.exe
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\bin\Debug\PoluareDB.mdf
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\bin\Debug\PoluareDB_log.ldf
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.InregistrareForm.resources
+C:\Users\Profesor\Desktop\tabara\Ziua5\PollutionMap\PollutionMap\obj\Debug\PollutionMap.VizualizareForm.resources

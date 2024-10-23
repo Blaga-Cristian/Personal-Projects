@@ -1,0 +1,22 @@
+C:\Users\Profesor\Desktop\tabara\Ziua2\Programmers\Programmers\bin\Debug\Programmers.exe.config
+C:\Users\Profesor\Desktop\tabara\Ziua2\Programmers\Programmers\bin\Debug\Programmers.exe
+C:\Users\Profesor\Desktop\tabara\Ziua2\Programmers\Programmers\bin\Debug\Programmers.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua2\Programmers\Programmers\obj\Debug\Programmers.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\Programmers\Programmers\obj\Debug\Programmers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\Programmers\Programmers\obj\Debug\Programmers.ProgrammersForm.resources
+C:\Users\Profesor\Desktop\tabara\Ziua2\Programmers\Programmers\obj\Debug\Programmers.Properties.Resources.resources
+C:\Users\Profesor\Desktop\tabara\Ziua2\Programmers\Programmers\obj\Debug\Programmers.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\Programmers\Programmers\obj\Debug\Programmers.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\Programmers\Programmers\obj\Debug\Programmers.exe
+C:\Users\Profesor\Desktop\tabara\Ziua2\Programmers\Programmers\obj\Debug\Programmers.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Programmers\Programmers\bin\Debug\Programmers.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Programmers\Programmers\bin\Debug\Programmers.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Programmers\Programmers\bin\Debug\Programmers.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Programmers\Programmers\obj\Debug\Programmers.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Programmers\Programmers\obj\Debug\Programmers.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Programmers\Programmers\obj\Debug\Programmers.ProgrammersForm.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Programmers\Programmers\obj\Debug\Programmers.Properties.Resources.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Programmers\Programmers\obj\Debug\Programmers.csproj.GenerateResource.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Programmers\Programmers\obj\Debug\Programmers.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Programmers\Programmers\obj\Debug\Programmers.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\Programmers\Programmers\obj\Debug\Programmers.pdb

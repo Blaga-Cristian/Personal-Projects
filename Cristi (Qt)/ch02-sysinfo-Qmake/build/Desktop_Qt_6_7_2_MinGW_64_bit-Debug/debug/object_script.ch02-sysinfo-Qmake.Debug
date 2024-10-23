@@ -1,0 +1,11 @@
+debug/cpuwidget.o
+debug/main.o
+debug/mainwindow.o
+debug/memorywidget.o
+debug/sysinfo.o
+debug/sysinfowidget.o
+debug/sysinfowindowsimpl.o
+debug/moc_cpuwidget.o
+debug/moc_mainwindow.o
+debug/moc_memorywidget.o
+debug/moc_sysinfowidget.o

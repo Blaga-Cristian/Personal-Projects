@@ -1,0 +1,11 @@
+E:\Cristi ( C# )\Misc\Test timer\Test timer\bin\Debug\Test timer.exe.config
+E:\Cristi ( C# )\Misc\Test timer\Test timer\bin\Debug\Test timer.exe
+E:\Cristi ( C# )\Misc\Test timer\Test timer\bin\Debug\Test timer.pdb
+E:\Cristi ( C# )\Misc\Test timer\Test timer\obj\Debug\Test timer.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Test timer\Test timer\obj\Debug\Test timer.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Test timer\Test timer\obj\Debug\Test_timer.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Test timer\Test timer\obj\Debug\Test timer.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Test timer\Test timer\obj\Debug\Test timer.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Test timer\Test timer\obj\Debug\Test timer.exe
+E:\Cristi ( C# )\Misc\Test timer\Test timer\obj\Debug\Test timer.pdb
+E:\Cristi ( C# )\Misc\Test timer\Test timer\obj\Debug\Test_timer.Form1.resources

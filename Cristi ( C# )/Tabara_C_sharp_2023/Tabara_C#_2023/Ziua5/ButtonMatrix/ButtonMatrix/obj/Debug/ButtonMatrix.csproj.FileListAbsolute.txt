@@ -1,0 +1,40 @@
+D:\XIIB\04.11\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.exe.config
+D:\XIIB\04.11\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.exe
+D:\XIIB\04.11\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.pdb
+D:\XIIB\04.11\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csprojAssemblyReference.cache
+D:\XIIB\04.11\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.Properties.Resources.resources
+D:\XIIB\04.11\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.GenerateResource.cache
+D:\XIIB\04.11\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.CoreCompileInputs.cache
+D:\XIIB\04.11\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.exe
+D:\XIIB\04.11\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.pdb
+E:\C#\DE_PASTRAT\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.exe.config
+E:\C#\DE_PASTRAT\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.exe
+E:\C#\DE_PASTRAT\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.pdb
+E:\C#\DE_PASTRAT\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.Properties.Resources.resources
+E:\C#\DE_PASTRAT\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.GenerateResource.cache
+E:\C#\DE_PASTRAT\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.CoreCompileInputs.cache
+E:\C#\DE_PASTRAT\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.exe
+E:\C#\DE_PASTRAT\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.pdb
+E:\C#\DE_PASTRAT\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.Form1.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.Form1.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.Properties.Resources.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.GenerateResource.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.pdb
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.exe.config
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.exe
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\bin\Debug\ButtonMatrix.pdb
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.Form1.resources
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.Properties.Resources.resources
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.exe
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\ButtonMatrix\ButtonMatrix\obj\Debug\ButtonMatrix.pdb

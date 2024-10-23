@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bbobi\\OneDrive\\Documente\\C#\\Fire\u0026Water\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7E7DC5-790D-454C-A53E-086FD8CE6F1C}|Fire\u0026Water\\Fire\u0026Water.csproj|C:\\Users\\bbobi\\OneDrive\\Documente\\C#\\Fire\u0026Water\\fire\u0026water\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7E7DC5-790D-454C-A53E-086FD8CE6F1C}|Fire\u0026Water\\Fire\u0026Water.csproj|solutionrelative:fire\u0026water\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7E7DC5-790D-454C-A53E-086FD8CE6F1C}|Fire\u0026Water\\Fire\u0026Water.csproj|c:\\users\\bbobi\\onedrive\\documente\\c#\\fire\u0026water\\fire\u0026water\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA7E7DC5-790D-454C-A53E-086FD8CE6F1C}|Fire\u0026Water\\Fire\u0026Water.csproj|solutionrelative:fire\u0026water\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7E7DC5-790D-454C-A53E-086FD8CE6F1C}|Fire\u0026Water\\Fire\u0026Water.csproj|C:\\Users\\bbobi\\OneDrive\\Documente\\C#\\Fire\u0026Water\\fire\u0026water\\hazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7E7DC5-790D-454C-A53E-086FD8CE6F1C}|Fire\u0026Water\\Fire\u0026Water.csproj|solutionrelative:fire\u0026water\\hazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7E7DC5-790D-454C-A53E-086FD8CE6F1C}|Fire\u0026Water\\Fire\u0026Water.csproj|C:\\Users\\bbobi\\OneDrive\\Documente\\C#\\Fire\u0026Water\\fire\u0026water\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7E7DC5-790D-454C-A53E-086FD8CE6F1C}|Fire\u0026Water\\Fire\u0026Water.csproj|solutionrelative:fire\u0026water\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hazard.cs",
+              "DocumentMoniker": "C:\\Users\\bbobi\\OneDrive\\Documente\\C#\\Fire\u0026Water\\Fire\u0026Water\\Hazard.cs",
+              "RelativeDocumentMoniker": "Fire\u0026Water\\Hazard.cs",
+              "ToolTip": "C:\\Users\\bbobi\\OneDrive\\Documente\\C#\\Fire\u0026Water\\Fire\u0026Water\\Hazard.cs",
+              "RelativeToolTip": "Fire\u0026Water\\Hazard.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:01:31.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\bbobi\\OneDrive\\Documente\\C#\\Fire\u0026Water\\Fire\u0026Water\\Character.cs",
+              "RelativeDocumentMoniker": "Fire\u0026Water\\Character.cs",
+              "ToolTip": "C:\\Users\\bbobi\\OneDrive\\Documente\\C#\\Fire\u0026Water\\Fire\u0026Water\\Character.cs",
+              "RelativeToolTip": "Fire\u0026Water\\Character.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwDQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:55:16.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bbobi\\OneDrive\\Documente\\C#\\Fire\u0026Water\\Fire\u0026Water\\Form1.cs",
+              "RelativeDocumentMoniker": "Fire\u0026Water\\Form1.cs",
+              "ToolTip": "C:\\Users\\bbobi\\OneDrive\\Documente\\C#\\Fire\u0026Water\\Fire\u0026Water\\Form1.cs",
+              "RelativeToolTip": "Fire\u0026Water\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:10:57.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bbobi\\OneDrive\\Documente\\C#\\Fire\u0026Water\\Fire\u0026Water\\Form1.cs",
+              "RelativeDocumentMoniker": "Fire\u0026Water\\Form1.cs",
+              "ToolTip": "C:\\Users\\bbobi\\OneDrive\\Documente\\C#\\Fire\u0026Water\\Fire\u0026Water\\Form1.cs [Design]",
+              "RelativeToolTip": "Fire\u0026Water\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:10:52.913Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

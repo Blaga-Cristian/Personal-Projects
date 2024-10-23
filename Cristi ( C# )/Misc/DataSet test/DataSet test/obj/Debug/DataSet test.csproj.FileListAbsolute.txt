@@ -1,0 +1,13 @@
+E:\Cristi ( C# )\Misc\DataSet test\DataSet test\bin\Debug\Scoala.mdf
+E:\Cristi ( C# )\Misc\DataSet test\DataSet test\bin\Debug\Scoala_log.ldf
+E:\Cristi ( C# )\Misc\DataSet test\DataSet test\bin\Debug\DataSet test.exe.config
+E:\Cristi ( C# )\Misc\DataSet test\DataSet test\bin\Debug\DataSet test.exe
+E:\Cristi ( C# )\Misc\DataSet test\DataSet test\bin\Debug\DataSet test.pdb
+E:\Cristi ( C# )\Misc\DataSet test\DataSet test\obj\Debug\DataSet test.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\DataSet test\DataSet test\obj\Debug\DataSet test.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\DataSet test\DataSet test\obj\Debug\DataSet_test.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\DataSet test\DataSet test\obj\Debug\DataSet test.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\DataSet test\DataSet test\obj\Debug\DataSet test.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\DataSet test\DataSet test\obj\Debug\DataSet test.exe
+E:\Cristi ( C# )\Misc\DataSet test\DataSet test\obj\Debug\DataSet test.pdb
+E:\Cristi ( C# )\Misc\DataSet test\DataSet test\obj\Debug\DataSet_test.Form1.resources

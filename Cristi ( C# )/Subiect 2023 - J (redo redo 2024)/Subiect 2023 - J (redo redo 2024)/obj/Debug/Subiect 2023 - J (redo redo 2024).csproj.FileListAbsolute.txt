@@ -1,0 +1,17 @@
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\bin\Debug\DBJocEducativ.mdf
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\bin\Debug\DBJocEducativ_log.ldf
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\bin\Debug\Subiect 2023 - J (redo redo 2024).exe.config
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\bin\Debug\Subiect 2023 - J (redo redo 2024).exe
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\bin\Debug\Subiect 2023 - J (redo redo 2024).pdb
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\obj\Debug\Subiect 2023 - J (redo redo 2024).csproj.AssemblyReference.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\obj\Debug\Subiect 2023 - J (redo redo 2024).csproj.SuggestedBindingRedirects.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\obj\Debug\Subiect_2023___J__redo_redo_2024_.AlegeJoc.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\obj\Debug\Subiect_2023___J__redo_redo_2024_.Autentificare.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\obj\Debug\Subiect_2023___J__redo_redo_2024_.Properties.Resources.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\obj\Debug\Subiect 2023 - J (redo redo 2024).csproj.GenerateResource.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\obj\Debug\Subiect 2023 - J (redo redo 2024).csproj.CoreCompileInputs.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\obj\Debug\Subiect 2023 - J (redo redo 2024).exe
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\obj\Debug\Subiect 2023 - J (redo redo 2024).pdb
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\obj\Debug\Subiect_2023___J__redo_redo_2024_.Ghiceste.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\obj\Debug\Subiect_2023___J__redo_redo_2024_.Sarpe.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Subiect 2023 - J (redo redo 2024)\Subiect 2023 - J (redo redo 2024)\obj\Debug\Subiect_2023___J__redo_redo_2024_.Intrebare.resources

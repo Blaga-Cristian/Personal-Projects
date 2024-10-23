@@ -1,0 +1,22 @@
+C:\Users\Profesor\Desktop\tabara\Ziua2\TestListBox\TestListBox\bin\Debug\TestListBox.exe.config
+C:\Users\Profesor\Desktop\tabara\Ziua2\TestListBox\TestListBox\bin\Debug\TestListBox.exe
+C:\Users\Profesor\Desktop\tabara\Ziua2\TestListBox\TestListBox\bin\Debug\TestListBox.pdb
+C:\Users\Profesor\Desktop\tabara\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.MainForm.resources
+C:\Users\Profesor\Desktop\tabara\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.Properties.Resources.resources
+C:\Users\Profesor\Desktop\tabara\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\tabara\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.exe
+C:\Users\Profesor\Desktop\tabara\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\TestListBox\TestListBox\bin\Debug\TestListBox.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\TestListBox\TestListBox\bin\Debug\TestListBox.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\TestListBox\TestListBox\bin\Debug\TestListBox.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.MainForm.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.Properties.Resources.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.csproj.GenerateResource.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Zilele_1234\Ziua2\TestListBox\TestListBox\obj\Debug\TestListBox.pdb

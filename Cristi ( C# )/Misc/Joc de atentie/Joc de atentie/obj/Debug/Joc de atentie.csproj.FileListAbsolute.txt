@@ -1,0 +1,11 @@
+E:\Cristi ( C# )\Misc\Joc de atentie\Joc de atentie\bin\Debug\Joc de atentie.exe.config
+E:\Cristi ( C# )\Misc\Joc de atentie\Joc de atentie\bin\Debug\Joc de atentie.exe
+E:\Cristi ( C# )\Misc\Joc de atentie\Joc de atentie\bin\Debug\Joc de atentie.pdb
+E:\Cristi ( C# )\Misc\Joc de atentie\Joc de atentie\obj\Debug\Joc de atentie.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Joc de atentie\Joc de atentie\obj\Debug\Joc de atentie.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Joc de atentie\Joc de atentie\obj\Debug\Joc_de_atentie.Form1.resources
+E:\Cristi ( C# )\Misc\Joc de atentie\Joc de atentie\obj\Debug\Joc_de_atentie.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Joc de atentie\Joc de atentie\obj\Debug\Joc de atentie.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Joc de atentie\Joc de atentie\obj\Debug\Joc de atentie.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Joc de atentie\Joc de atentie\obj\Debug\Joc de atentie.exe
+E:\Cristi ( C# )\Misc\Joc de atentie\Joc de atentie\obj\Debug\Joc de atentie.pdb

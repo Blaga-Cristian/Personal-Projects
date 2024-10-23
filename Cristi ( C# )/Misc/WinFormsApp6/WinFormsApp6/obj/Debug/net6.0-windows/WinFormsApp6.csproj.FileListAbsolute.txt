@@ -1,0 +1,36 @@
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form2.resources
+C:\Users\nicul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.exe
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.dll
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form2.resources
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.dll
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+E:\Cristi ( C# )\Misc\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll

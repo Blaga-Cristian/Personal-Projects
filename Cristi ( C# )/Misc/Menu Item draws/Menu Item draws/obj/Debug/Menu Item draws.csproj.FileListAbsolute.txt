@@ -1,0 +1,10 @@
+E:\Cristi ( C# )\Misc\Menu Item draws\Menu Item draws\bin\Debug\Menu Item draws.exe.config
+E:\Cristi ( C# )\Misc\Menu Item draws\Menu Item draws\bin\Debug\Menu Item draws.exe
+E:\Cristi ( C# )\Misc\Menu Item draws\Menu Item draws\bin\Debug\Menu Item draws.pdb
+E:\Cristi ( C# )\Misc\Menu Item draws\Menu Item draws\obj\Debug\Menu Item draws.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Menu Item draws\Menu Item draws\obj\Debug\Menu Item draws.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Menu Item draws\Menu Item draws\obj\Debug\Menu_Item_draws.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Menu Item draws\Menu Item draws\obj\Debug\Menu Item draws.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Menu Item draws\Menu Item draws\obj\Debug\Menu Item draws.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Menu Item draws\Menu Item draws\obj\Debug\Menu Item draws.exe
+E:\Cristi ( C# )\Misc\Menu Item draws\Menu Item draws\obj\Debug\Menu Item draws.pdb

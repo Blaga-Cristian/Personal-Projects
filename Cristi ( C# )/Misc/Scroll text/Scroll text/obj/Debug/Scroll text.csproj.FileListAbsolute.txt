@@ -1,0 +1,11 @@
+E:\Cristi ( C# )\Misc\Scroll text\Scroll text\bin\Debug\Scroll text.exe.config
+E:\Cristi ( C# )\Misc\Scroll text\Scroll text\bin\Debug\Scroll text.exe
+E:\Cristi ( C# )\Misc\Scroll text\Scroll text\bin\Debug\Scroll text.pdb
+E:\Cristi ( C# )\Misc\Scroll text\Scroll text\obj\Debug\Scroll text.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Scroll text\Scroll text\obj\Debug\Scroll text.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Scroll text\Scroll text\obj\Debug\Scroll_text.Form1.resources
+E:\Cristi ( C# )\Misc\Scroll text\Scroll text\obj\Debug\Scroll_text.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Scroll text\Scroll text\obj\Debug\Scroll text.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Scroll text\Scroll text\obj\Debug\Scroll text.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Scroll text\Scroll text\obj\Debug\Scroll text.exe
+E:\Cristi ( C# )\Misc\Scroll text\Scroll text\obj\Debug\Scroll text.pdb

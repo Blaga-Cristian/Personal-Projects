@@ -1,0 +1,11 @@
+release/cpuwidget.o
+release/main.o
+release/mainwindow.o
+release/memorywidget.o
+release/sysinfo.o
+release/sysinfowidget.o
+release/sysinfowindowsimpl.o
+release/moc_cpuwidget.o
+release/moc_mainwindow.o
+release/moc_memorywidget.o
+release/moc_sysinfowidget.o

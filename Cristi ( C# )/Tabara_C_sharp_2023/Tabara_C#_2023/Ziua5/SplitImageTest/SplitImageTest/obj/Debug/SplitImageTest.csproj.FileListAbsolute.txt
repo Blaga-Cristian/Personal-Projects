@@ -1,0 +1,44 @@
+C:\Users\Profesor\Desktop\Rezurse_C#\SplitImageTest\SplitImageTest\bin\Debug\SplitImageTest.exe.config
+C:\Users\Profesor\Desktop\Rezurse_C#\SplitImageTest\SplitImageTest\bin\Debug\SplitImageTest.exe
+C:\Users\Profesor\Desktop\Rezurse_C#\SplitImageTest\SplitImageTest\bin\Debug\SplitImageTest.pdb
+C:\Users\Profesor\Desktop\Rezurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\Rezurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\Rezurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.Properties.Resources.resources
+C:\Users\Profesor\Desktop\Rezurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\Rezurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\Rezurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.exe
+C:\Users\Profesor\Desktop\Rezurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.pdb
+C:\Users\Profesor\Desktop\Rezurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.Form1.resources
+C:\Users\Profesor\Desktop\Resurse_C#\SplitImageTest\SplitImageTest\bin\Debug\SplitImageTest.exe.config
+C:\Users\Profesor\Desktop\Resurse_C#\SplitImageTest\SplitImageTest\bin\Debug\SplitImageTest.exe
+C:\Users\Profesor\Desktop\Resurse_C#\SplitImageTest\SplitImageTest\bin\Debug\SplitImageTest.pdb
+C:\Users\Profesor\Desktop\Resurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.AssemblyReference.cache
+C:\Users\Profesor\Desktop\Resurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Profesor\Desktop\Resurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.Form1.resources
+C:\Users\Profesor\Desktop\Resurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.Properties.Resources.resources
+C:\Users\Profesor\Desktop\Resurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\Resurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\Desktop\Resurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.exe
+C:\Users\Profesor\Desktop\Resurse_C#\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\bin\Debug\SplitImageTest.exe.config
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\bin\Debug\SplitImageTest.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\bin\Debug\SplitImageTest.pdb
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.AssemblyReference.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.Form1.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.Properties.Resources.resources
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.GenerateResource.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.CoreCompileInputs.cache
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.exe
+C:\Users\SEGOTEP\OneDrive\Documente\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.pdb
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\bin\Debug\SplitImageTest.exe.config
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\bin\Debug\SplitImageTest.exe
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\bin\Debug\SplitImageTest.pdb
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.Form1.resources
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.Properties.Resources.resources
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.exe
+E:\Cristi ( C# )\Tabara_C_sharp_2023\Tabara_C#_2023\Ziua5\SplitImageTest\SplitImageTest\obj\Debug\SplitImageTest.pdb
