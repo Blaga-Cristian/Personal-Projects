@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675450840 source:d:\blaga\qtree\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

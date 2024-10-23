@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675185254 source:d:\blaga\det drum\main.cpp
+	<fstream>
+	<vector>
+	<set>
+

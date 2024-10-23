@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675866923 source:d:\blaga\smax\main.cpp
+	<fstream>
+	<stack>
+

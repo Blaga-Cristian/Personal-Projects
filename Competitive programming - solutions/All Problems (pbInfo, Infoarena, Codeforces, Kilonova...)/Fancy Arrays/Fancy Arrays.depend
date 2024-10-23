@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704453812 source:c:\users\aaaa\documents\blaga\cristi\blaga\fancy arrays\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+

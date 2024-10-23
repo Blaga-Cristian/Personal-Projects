@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665675291 source:d:\blaga\sortare topologice\main.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+

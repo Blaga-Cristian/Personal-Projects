@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664972182 source:d:\blaga\kruskalll\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668623116 source:d:\blaga\smen batog\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

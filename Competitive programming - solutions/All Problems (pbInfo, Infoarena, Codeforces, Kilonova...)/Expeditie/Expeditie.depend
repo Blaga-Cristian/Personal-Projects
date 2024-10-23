@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672261197 source:d:\blaga\expeditie\main.cpp
+	<fstream>
+	<queue>
+	<cmath>
+	<limits>
+

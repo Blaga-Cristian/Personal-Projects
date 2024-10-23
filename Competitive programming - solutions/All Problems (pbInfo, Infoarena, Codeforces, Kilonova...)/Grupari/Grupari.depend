@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669489635 source:d:\blaga\grupari\main.cpp
+	<iostream>
+	<iomanip>
+	<algorithm>
+

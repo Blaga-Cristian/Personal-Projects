@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653598202 source:d:\blaga\proiect log\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

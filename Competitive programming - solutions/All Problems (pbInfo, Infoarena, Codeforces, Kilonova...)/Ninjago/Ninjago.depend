@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666637441 source:d:\blaga\ninjago\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<cstring>
+	<cmath>
+	<algorithm>
+

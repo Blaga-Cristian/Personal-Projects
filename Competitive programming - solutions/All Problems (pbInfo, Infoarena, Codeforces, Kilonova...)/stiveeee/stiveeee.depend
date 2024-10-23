@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663007482 source:d:\blaga\stiveeee\main.cpp
+	<iostream>
+	<stack>
+	<vector>
+

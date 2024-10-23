@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674679143 source:d:\blaga\falkland\main.cpp
+	<fstream>
+	<cstring>
+	<vector>
+

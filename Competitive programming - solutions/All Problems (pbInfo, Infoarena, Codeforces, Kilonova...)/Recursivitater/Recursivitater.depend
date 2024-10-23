@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654266270 source:d:\blaga\recursivitater\main.cpp
+	<fstream>
+	<vector>
+

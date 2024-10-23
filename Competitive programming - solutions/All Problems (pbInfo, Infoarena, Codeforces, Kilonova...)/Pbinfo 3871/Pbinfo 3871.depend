@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1656073459 source:d:\blaga\pbinfo 3871\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<unordered_set>
+

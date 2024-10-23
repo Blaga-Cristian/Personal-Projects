@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646228792 source:d:\blaga\eratostene 2\main.cpp
+	<fstream>
+	<cmath>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1677585299 source:d:\blaga\network\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<cstring>
+
+1713186368 source:c:\users\aaaa\documents\blaga\cristi\blaga\network\main.cpp
+	<bits/stdc++.h>
+

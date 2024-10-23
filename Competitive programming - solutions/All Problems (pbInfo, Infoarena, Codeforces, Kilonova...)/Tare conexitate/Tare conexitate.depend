@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1674681065 source:d:\blaga\tare conexitate\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<stack>
+

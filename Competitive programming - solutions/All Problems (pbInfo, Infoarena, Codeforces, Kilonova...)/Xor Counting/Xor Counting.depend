@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681375205 source:d:\blaga\xor counting\main.cpp
+	<iostream>
+	<unordered_map>
+

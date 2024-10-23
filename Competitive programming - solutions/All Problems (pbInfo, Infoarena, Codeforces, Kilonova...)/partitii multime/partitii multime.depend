@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661628706 source:d:\blaga\partitii multime\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+

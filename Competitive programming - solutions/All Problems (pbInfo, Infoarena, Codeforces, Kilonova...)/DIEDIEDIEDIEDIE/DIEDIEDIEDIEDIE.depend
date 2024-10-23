@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1679319993 source:d:\blaga\diediediediedie\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<cstring>
+	<algorithm>
+

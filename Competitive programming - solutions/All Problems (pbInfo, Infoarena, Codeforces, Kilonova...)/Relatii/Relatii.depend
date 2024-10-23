@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1665681509 source:d:\blaga\relatii\main.cpp
+	<fstream>
+	<cstring>
+	<vector>
+	<queue>
+

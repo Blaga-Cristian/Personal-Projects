@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1675428389 source:d:\blaga\obiective back 4 blood\main.cpp
+	<fstream>
+	<vector>
+	<stack>
+	<algorithm>
+

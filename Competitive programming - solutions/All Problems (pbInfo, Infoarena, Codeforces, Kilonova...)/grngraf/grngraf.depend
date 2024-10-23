@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663589530 source:d:\blaga\grngraf\main.cpp
+	<fstream>
+	<cmath>
+	<vector>
+

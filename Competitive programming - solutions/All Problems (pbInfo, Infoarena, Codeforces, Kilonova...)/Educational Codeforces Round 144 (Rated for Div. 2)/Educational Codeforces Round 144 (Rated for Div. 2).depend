@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726251911 source:c:\users\aaaa\documents\blaga\cristi\blaga\educational codeforces round 144 (rated for div. 2)\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+

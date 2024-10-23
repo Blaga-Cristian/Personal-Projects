@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674764859 source:d:\blaga\lant 2\main.cpp
+	<fstream>
+	<vector>
+	<cstring>
+

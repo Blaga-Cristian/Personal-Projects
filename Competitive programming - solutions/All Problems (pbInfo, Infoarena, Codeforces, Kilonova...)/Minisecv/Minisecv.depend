@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672598809 source:d:\blaga\minisecv\main.cpp
+	<fstream>
+	<cmath>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672953676 source:d:\blaga\cover\main.cpp
+	<fstream>
+	<algorithm>
+	<deque>
+

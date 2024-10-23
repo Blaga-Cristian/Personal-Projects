@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1674836311 source:d:\blaga\retea(easy)\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+

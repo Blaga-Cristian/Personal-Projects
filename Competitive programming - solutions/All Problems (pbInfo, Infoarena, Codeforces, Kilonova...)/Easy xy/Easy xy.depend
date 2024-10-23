@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676138254 source:d:\blaga\easy xy\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

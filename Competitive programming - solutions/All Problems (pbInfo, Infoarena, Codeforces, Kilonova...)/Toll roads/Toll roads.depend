@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666640886 source:d:\blaga\toll roads\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+

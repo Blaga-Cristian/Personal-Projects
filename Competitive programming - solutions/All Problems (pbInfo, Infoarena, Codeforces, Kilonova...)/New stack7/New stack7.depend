@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662983806 source:d:\blaga\new stack7\main.cpp
+	<iostream>
+	<stack>
+	<deque>
+

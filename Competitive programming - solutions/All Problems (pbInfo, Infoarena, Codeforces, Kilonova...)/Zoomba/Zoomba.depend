@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1671829448 source:d:\blaga\zoomba\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<algorithm>
+

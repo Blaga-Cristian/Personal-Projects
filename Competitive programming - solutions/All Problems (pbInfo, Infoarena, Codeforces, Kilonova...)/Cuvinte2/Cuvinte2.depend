@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672964264 source:d:\blaga\cuvinte2\main.cpp
+	<fstream>
+	<cstring>
+	<cmath>
+

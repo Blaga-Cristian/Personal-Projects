@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660730327 source:d:\blaga\shuffle\main.cpp
+	<fstream>
+	<algorithm>
+	<tuple>
+

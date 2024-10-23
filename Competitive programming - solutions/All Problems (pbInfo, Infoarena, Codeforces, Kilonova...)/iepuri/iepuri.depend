@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678712206 source:d:\blaga\iepuri\main.cpp
+	<fstream>
+	<vector>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1660732298 source:d:\blaga\permutare\main.cpp
+	<iostream>
+	<algorithm>
+	<tuple>
+	<cmath>
+

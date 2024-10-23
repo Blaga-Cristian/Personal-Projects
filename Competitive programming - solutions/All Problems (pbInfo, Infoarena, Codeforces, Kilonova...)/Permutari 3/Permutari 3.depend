@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660164726 source:d:\blaga\permutari 3\main.cpp
+	<fstream>
+	<queue>
+	<algorithm>
+

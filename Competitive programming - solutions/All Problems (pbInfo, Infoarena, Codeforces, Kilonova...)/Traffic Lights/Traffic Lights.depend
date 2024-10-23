@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683034391 source:e:\cristi\blaga\traffic lights\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+

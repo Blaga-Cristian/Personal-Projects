@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678822692 source:d:\blaga\gcd2b\main.cpp
+	<fstream>
+	<cmath>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676463976 source:d:\blaga\numar 6\main.cpp
+	<fstream>
+	<queue>
+

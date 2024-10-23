@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674578858 source:d:\blaga\lazy\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

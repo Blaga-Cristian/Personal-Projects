@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664223831 source:d:\blaga\superhedgy\main.cpp
+	<fstream>
+	<algorithm>
+	<cstring>
+

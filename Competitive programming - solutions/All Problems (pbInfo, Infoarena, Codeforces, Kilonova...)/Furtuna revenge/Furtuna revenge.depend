@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677498486 source:d:\blaga\furtuna revenge\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<cstring>
+	<bitset>
+

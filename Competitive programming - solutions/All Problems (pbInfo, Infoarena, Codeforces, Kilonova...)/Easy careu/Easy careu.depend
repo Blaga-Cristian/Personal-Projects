@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1679663486 source:d:\blaga\easy careu\main.cpp
+	<fstream>
+	<cstring>
+	<queue>
+	<algorithm>
+	<vector>
+

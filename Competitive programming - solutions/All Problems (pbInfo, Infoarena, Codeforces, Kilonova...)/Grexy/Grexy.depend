@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671831078 source:d:\blaga\grexy\main.cpp
+	<fstream>
+	<cstdlib>
+

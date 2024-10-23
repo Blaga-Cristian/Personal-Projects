@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1677699586 source:d:\blaga\zuma\main.cpp
+	<fstream>
+	<cstring>
+
+1705081115 source:c:\users\aaaa\documents\blaga\cristi\blaga\zuma\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1662652519 source:d:\blaga\nrdiv\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655119945 source:d:\blaga\statistici\main.cpp
+	<fstream>
+	<vector>
+	<cstdlib>
+	<time.h>
+

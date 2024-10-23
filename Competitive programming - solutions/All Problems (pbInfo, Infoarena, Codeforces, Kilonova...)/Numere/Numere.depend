@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657272832 source:d:\blaga\numere\main.cpp
+	<fstream>
+	<cstring>
+

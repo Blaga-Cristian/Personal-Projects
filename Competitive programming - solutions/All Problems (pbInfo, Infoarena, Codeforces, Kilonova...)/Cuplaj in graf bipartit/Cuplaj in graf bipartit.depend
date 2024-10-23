@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674676963 source:d:\blaga\cuplaj in graf bipartit\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665080082 source:d:\blaga\voucher\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+	<queue>
+	<tuple>
+

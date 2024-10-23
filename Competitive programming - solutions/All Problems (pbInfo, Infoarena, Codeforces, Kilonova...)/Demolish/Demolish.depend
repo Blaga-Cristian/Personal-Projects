@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678803323 source:d:\blaga\demolish\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+
+1699986285 source:c:\users\aaaa\documents\blaga\cristi\blaga\demolish\main.cpp
+	<bits/stdc++.h>
+

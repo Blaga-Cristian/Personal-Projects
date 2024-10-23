@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661441861 source:d:\blaga\fibonacci\main.cpp
+	<fstream>
+	<cmath>
+

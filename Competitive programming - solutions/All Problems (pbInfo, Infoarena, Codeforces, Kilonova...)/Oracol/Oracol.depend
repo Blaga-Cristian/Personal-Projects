@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666687676 source:d:\blaga\oracol\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

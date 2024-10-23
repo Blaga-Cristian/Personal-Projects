@@ -1,0 +1,3 @@
+﻿  Test.cpp
+D:\Blaga\Compresie1\Compresie1\Test.cpp(10,14): error C2440: '=': cannot convert from '__int64' to 'char *'
+D:\Blaga\Compresie1\Compresie1\Test.cpp(10,10): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast

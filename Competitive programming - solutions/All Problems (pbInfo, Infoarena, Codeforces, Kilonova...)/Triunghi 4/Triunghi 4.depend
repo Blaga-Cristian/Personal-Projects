@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674412169 source:d:\blaga\triunghi 4\main.cpp
+	<fstream>
+	<vector>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654338376 source:d:\blaga\recurs mediu\main.cpp
+	<vector>
+	<fstream>
+	<cmath>
+	<queue>
+

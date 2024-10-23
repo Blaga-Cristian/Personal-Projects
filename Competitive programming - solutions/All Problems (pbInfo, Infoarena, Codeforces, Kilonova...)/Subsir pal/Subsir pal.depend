@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671839137 source:d:\blaga\subsir pal\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

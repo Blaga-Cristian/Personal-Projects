@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662985742 source:d:\blaga\stiva ex\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

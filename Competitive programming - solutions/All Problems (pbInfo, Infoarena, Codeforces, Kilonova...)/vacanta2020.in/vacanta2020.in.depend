@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665320537 source:d:\blaga\vacanta2020.in\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+

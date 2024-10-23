@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644660454 source:d:\blaga\pbinfo 2118\main.cpp
+	<fstream>
+	<cstring>
+

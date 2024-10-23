@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669894507 source:d:\blaga\plan\main.cpp
+	<fstream>
+	<set>
+

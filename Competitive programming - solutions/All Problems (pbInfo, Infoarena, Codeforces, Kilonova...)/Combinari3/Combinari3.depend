@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660853507 source:d:\blaga\combinari3\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

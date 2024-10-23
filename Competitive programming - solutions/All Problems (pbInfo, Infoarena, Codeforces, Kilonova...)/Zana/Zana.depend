@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655806655 source:d:\blaga\zana\main.cpp
+	<iostream>
+	<vector>
+

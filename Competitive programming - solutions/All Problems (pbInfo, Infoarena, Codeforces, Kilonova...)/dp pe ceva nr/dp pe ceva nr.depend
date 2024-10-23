@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672268146 source:d:\blaga\dp pe ceva nr\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

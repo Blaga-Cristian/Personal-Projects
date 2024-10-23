@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728153568 source:c:\users\aaaa\documents\blaga\cristi\blaga\abc 373\main.cpp
+	<string>
+	<bits/functexcept.h>
+	<iosfwd>
+	<bits/cxxabi_forced.h>
+	<bits/functional_hash.h>
+	<bitset>
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+

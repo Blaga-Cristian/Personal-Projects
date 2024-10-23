@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671831655 source:d:\blaga\dyson\main.cpp
+	<fstream>
+	<vector>
+

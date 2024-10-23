@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1675028905 source:d:\blaga\tarjan\main.cpp
+	<fstream>
+	<vector>
+	<fstream>
+	<stack>
+

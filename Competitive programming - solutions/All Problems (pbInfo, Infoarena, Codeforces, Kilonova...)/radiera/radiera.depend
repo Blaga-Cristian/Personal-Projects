@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668947796 source:d:\blaga\radiera\main.cpp
+	<fstream>
+	<algorithm>
+	<stack>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657633813 source:d:\blaga\pastile\main.cpp
+	<fstream>
+	<cstdio>
+

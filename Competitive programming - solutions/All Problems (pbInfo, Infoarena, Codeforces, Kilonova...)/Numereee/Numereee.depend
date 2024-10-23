@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673297449 source:d:\blaga\numereee\main.cpp
+	<cstdio>
+	<fstream>
+	<vector>
+

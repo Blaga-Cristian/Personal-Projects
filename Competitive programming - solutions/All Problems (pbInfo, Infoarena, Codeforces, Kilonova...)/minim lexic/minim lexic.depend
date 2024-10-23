@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662484116 source:d:\blaga\minim lexic\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

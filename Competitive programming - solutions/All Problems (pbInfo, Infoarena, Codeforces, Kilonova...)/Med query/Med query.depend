@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1675789586 source:d:\blaga\med query\main.cpp
+	<fstream>
+	<algorithm>
+	<vector>
+	<cmath>
+

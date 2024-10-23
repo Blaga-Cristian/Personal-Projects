@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676118117 source:d:\blaga\easy\main.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1675781407 source:d:\blaga\median heaps\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+

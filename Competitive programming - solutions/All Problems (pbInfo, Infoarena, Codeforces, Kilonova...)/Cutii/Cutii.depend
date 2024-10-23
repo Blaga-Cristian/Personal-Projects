@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670792338 source:d:\blaga\cutii\main.cpp
+	<fstream>
+	<algorithm>
+	<vector>
+

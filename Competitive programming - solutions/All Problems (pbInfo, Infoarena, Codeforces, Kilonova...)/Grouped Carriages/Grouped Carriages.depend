@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701360410 source:c:\users\aaaa\documents\blaga\cristi\blaga\grouped carriages\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+

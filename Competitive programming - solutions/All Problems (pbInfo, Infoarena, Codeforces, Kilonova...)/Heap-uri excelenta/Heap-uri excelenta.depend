@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697917292 source:c:\users\aaaa\documents\blaga\cristi\blaga\heap-uri excelenta\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+

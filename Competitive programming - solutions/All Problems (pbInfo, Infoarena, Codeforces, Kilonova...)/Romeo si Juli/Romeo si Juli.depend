@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1673723060 source:d:\blaga\romeo si juli\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<unordered_set>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678819937 source:d:\blaga\kpart\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+

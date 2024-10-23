@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646321372 source:d:\blaga\simulare\main.cpp
+	<fstream>
+	<cstring>
+

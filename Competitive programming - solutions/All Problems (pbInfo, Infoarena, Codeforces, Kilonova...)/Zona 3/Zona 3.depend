@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654267285 source:d:\blaga\zona 3\main.cpp
+	<fstream>
+	<vector>
+

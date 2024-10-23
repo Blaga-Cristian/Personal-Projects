@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1655812468 source:d:\blaga\egalitati\main.cpp
+	<fstream>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+

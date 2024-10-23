@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680634433 source:d:\blaga\erasing vertices\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677598471 source:d:\blaga\cuplag\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<bitset>
+

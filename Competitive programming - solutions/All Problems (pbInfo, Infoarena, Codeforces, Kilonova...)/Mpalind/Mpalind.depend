@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672078686 source:d:\blaga\mpalind\main.cpp
+	<fstream>
+	<cstring>
+

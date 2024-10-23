@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673879257 source:d:\blaga\dmlsh\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

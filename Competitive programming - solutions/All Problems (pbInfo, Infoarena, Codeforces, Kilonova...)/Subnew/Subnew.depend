@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676325340 source:d:\blaga\subnew\main.cpp
+	<fstream>
+	<cstring>
+	<unordered_map>
+

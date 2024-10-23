@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673110452 source:d:\blaga\sightseeing trip\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

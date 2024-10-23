@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1705144703 source:c:\users\aaaa\documents\blaga\cristi\blaga\qtree spoj\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<vector>
+

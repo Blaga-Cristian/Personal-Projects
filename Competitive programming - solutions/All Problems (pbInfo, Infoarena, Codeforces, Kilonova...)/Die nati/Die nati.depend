@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679315074 source:d:\blaga\die nati\main.cpp
+	<fstream>
+	<vector>
+	<cstring>
+

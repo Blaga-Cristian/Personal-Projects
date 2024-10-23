@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674138296 source:d:\blaga\ssce\main.cpp
+	<fstream>
+	<cstring>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673637221 source:d:\blaga\componente biconexe\main.cpp
+	<fstream>
+	<vector>
+	<stack>
+	<algorithm>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1674738563 source:d:\blaga\ctc\main.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	<queue>
+	<stack>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674655153 source:d:\blaga\predictor\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

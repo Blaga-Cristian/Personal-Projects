@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1675453662 source:d:\blaga\counter terrorist\main.cpp
+	<fstream>
+	<vector>
+	<cmath>
+	<algorithm>
+

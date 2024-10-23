@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664806152 source:d:\blaga\dijkstra\main.cpp
+	<fstream>
+	<vector>
+	<set>
+

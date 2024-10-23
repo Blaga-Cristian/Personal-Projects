@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660666654 source:d:\blaga\numarmaxim\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

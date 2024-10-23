@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680193886 source:d:\blaga\wdif\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstring>
+

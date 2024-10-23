@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678992228 source:d:\blaga\lanterna\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<cstring>
+

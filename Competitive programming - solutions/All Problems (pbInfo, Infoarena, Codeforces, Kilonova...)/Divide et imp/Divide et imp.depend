@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654537165 source:d:\blaga\divide et imp\main.cpp
+	<fstream>
+	<vector>
+	<cmath>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666865837 source:d:\blaga\lant\main.cpp
+	<fstream>
+	<vector>
+	<set>
+	<queue>
+

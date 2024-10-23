@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671279500 source:d:\blaga\sscm\main.cpp
+	<fstream>
+	<tuple>
+

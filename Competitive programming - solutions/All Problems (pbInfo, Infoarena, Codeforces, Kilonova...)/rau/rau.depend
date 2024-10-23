@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678104060 source:d:\blaga\rau\main.cpp
+	<fstream>
+	<deque>
+	<vector>
+

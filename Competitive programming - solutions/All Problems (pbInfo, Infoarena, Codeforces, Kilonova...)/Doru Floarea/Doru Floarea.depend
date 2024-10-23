@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666692637 source:d:\blaga\doru floarea\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

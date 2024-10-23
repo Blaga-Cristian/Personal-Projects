@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1679049354 source:d:\blaga\ratina\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstring>
+
+1687778321 source:e:\cristi\blaga\ratina\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstring>
+
+1712581371 source:c:\users\aaaa\documents\blaga\cristi\blaga\ratina\main.cpp
+	<bits/stdc++.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1678287018 source:d:\blaga\ramen\main.cpp
+	<fstream>
+	<queue>
+	<vector>
+	<set>
+	<algorithm>
+

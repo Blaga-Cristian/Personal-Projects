@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678970944 source:d:\blaga\seg\main.cpp
+	<fstream>
+	<cmath>
+	<vector>
+	<tuple>
+	<cstring>
+	<iomanip>
+

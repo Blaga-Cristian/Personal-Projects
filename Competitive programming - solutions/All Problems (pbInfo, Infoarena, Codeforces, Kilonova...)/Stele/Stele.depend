@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1656411768 source:d:\blaga\stele\main.cpp
+	<fstream>
+	<cmath>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+

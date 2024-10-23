@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679076925 source:d:\blaga\cuplajjj\main.cpp
+	<fstream>
+	<vector>
+	<cstring>
+

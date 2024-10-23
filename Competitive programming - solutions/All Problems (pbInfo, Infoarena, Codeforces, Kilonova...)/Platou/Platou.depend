@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676368996 source:d:\blaga\platou\main.cpp
+	<iostream>
+	<unordered_map>
+	<queue>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679075931 source:d:\blaga\flou\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<bitset>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674752785 source:d:\blaga\hamilton\main.cpp
+	<fstream>
+	<vector>
+

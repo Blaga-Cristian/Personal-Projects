@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677927740 source:d:\blaga\train\main.cpp
+	<fstream>
+	<algorithm>
+

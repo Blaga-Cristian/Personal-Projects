@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672266009 source:d:\blaga\convert submatrix\main.cpp
+	<fstream>
+	<cstring>
+

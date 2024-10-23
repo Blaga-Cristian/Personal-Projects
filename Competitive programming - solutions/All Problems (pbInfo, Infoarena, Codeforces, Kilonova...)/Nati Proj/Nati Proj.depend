@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1729359197 source:c:\users\aaaa\documents\blaga\cristi\blaga\nati proj\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<functional>
+

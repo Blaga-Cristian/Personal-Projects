@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657798231 source:d:\blaga\spioni\main.cpp
+	<fstream>
+	<cstring>
+

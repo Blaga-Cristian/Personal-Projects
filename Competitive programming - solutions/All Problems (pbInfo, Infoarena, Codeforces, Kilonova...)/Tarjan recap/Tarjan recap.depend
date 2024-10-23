@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669290976 source:d:\blaga\tarjan recap\main.cpp
+	<fstream>
+	<vector>
+	<stack>
+

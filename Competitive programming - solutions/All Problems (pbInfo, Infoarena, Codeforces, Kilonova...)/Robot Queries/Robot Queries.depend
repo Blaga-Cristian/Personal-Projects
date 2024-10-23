@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702153321 source:c:\users\aaaa\documents\blaga\cristi\blaga\robot queries\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+

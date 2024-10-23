@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664962346 source:d:\blaga\prim\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+

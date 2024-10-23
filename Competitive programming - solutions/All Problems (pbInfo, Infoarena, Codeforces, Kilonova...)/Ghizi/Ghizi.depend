@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1677501901 source:d:\blaga\ghizi\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<bitset>
+	<set>
+
+1709985254 source:c:\users\aaaa\documents\blaga\cristi\blaga\ghizi\main.cpp
+	<bits/stdc++.h>
+

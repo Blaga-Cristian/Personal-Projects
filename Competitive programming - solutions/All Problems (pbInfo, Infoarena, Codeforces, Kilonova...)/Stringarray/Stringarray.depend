@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662116341 source:d:\blaga\stringarray\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

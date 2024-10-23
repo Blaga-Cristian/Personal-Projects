@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720977612 source:c:\users\aaaa\documents\blaga\cristi\blaga\segprod\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+

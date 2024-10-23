@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674750366 source:d:\blaga\planete\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

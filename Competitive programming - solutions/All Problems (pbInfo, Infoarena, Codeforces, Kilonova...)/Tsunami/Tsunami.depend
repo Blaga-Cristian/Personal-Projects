@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657021268 source:d:\blaga\tsunami\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+

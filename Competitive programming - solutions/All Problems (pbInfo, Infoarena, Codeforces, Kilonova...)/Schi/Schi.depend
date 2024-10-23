@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671272980 source:d:\blaga\schi\main.cpp
+	<fstream>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705505626 source:c:\users\aaaa\documents\blaga\cristi\blaga\minimum longest trip\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+

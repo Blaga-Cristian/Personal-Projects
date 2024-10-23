@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674579832 source:d:\blaga\online\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

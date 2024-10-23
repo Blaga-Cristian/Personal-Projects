@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672322060 source:d:\blaga\superperfecte\main.cpp
+	<fstream>
+	<vector>
+

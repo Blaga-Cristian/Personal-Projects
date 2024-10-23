@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674130787 source:d:\blaga\qxy (arbori de intervale persistenti)\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

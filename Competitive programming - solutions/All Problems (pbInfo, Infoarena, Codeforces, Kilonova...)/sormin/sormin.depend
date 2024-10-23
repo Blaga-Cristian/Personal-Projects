@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677932223 source:d:\blaga\sormin\main.cpp
+	<fstream>
+	<vector>
+

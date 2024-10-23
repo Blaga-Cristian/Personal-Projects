@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666865522 source:d:\blaga\este arbore\main.cpp
+	<fstream>
+	<vector>
+	<set>
+	<queue>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677594257 source:d:\blaga\trasee\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<bitset>
+

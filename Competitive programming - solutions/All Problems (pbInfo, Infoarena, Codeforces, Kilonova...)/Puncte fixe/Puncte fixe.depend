@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660673454 source:d:\blaga\puncte fixe\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1677177583 source:d:\blaga\senat\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<bitset>
+	<cstring>
+	<cstdlib>
+

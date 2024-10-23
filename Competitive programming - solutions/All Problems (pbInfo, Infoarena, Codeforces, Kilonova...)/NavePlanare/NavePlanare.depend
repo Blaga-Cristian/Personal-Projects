@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677268599 source:d:\blaga\naveplanare\main.cpp
+	<fstream>
+	<algorithm>
+	<cstring>
+

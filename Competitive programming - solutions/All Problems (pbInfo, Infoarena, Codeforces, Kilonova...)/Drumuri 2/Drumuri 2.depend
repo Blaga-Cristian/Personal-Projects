@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677266083 source:d:\blaga\drumuri 2\main.cpp
+	<fstream>
+	<bitset>
+	<queue>
+	<vector>
+

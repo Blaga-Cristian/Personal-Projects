@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675782809 source:d:\blaga\set\main.cpp
+	<fstream>
+	<set>
+	<algorithm>
+

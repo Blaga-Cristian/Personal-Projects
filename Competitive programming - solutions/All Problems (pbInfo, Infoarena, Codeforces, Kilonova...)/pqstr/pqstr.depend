@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677758917 source:d:\blaga\pqstr\main.cpp
+	<fstream>
+	<deque>
+	<algorithm>
+

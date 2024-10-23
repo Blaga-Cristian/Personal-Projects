@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656878294 source:d:\blaga\xor\main.cpp
+	<iostream>
+	<cstdio>
+	<unordered_set>
+

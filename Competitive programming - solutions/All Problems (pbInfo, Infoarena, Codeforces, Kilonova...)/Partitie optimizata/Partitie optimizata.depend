@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1661548144 source:d:\blaga\partitie optimizata\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+

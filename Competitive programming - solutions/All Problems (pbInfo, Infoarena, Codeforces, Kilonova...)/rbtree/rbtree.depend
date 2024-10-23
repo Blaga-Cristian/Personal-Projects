@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673963422 source:d:\blaga\rbtree\main.cpp
+	<fstream>
+	<queue>
+

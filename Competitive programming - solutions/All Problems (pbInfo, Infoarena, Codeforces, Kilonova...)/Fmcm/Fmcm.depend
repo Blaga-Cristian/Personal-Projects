@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677252515 source:d:\blaga\fmcm\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<bitset>
+	<cstring>
+

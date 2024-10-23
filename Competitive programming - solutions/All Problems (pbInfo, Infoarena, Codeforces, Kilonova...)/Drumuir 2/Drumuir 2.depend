@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1674825885 source:d:\blaga\drumuir 2\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<algorithm>
+

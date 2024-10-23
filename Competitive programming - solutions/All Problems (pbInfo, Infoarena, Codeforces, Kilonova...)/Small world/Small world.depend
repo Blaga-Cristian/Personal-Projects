@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680182669 source:d:\blaga\small world\main.cpp
+	<fstream>
+	<vector>
+

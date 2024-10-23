@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673456015 source:d:\blaga\salturi2\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+

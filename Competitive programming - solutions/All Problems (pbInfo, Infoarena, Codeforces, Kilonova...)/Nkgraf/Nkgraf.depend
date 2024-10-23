@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667655800 source:d:\blaga\nkgraf\main.cpp
+	<fstream>
+	<vector>
+
