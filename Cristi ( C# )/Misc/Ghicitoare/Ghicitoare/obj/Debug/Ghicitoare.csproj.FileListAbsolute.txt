@@ -9,3 +9,14 @@ E:\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.csproj.Generate
 E:\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.csproj.CoreCompileInputs.cache
 E:\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.exe
 E:\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.pdb
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\bin\Debug\Ghicitoare.exe.config
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\bin\Debug\Ghicitoare.exe
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\bin\Debug\Ghicitoare.pdb
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.csproj.AssemblyReference.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.csproj.SuggestedBindingRedirects.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.Form1.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.Properties.Resources.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.csproj.GenerateResource.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.csproj.CoreCompileInputs.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.exe
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Misc\Ghicitoare\Ghicitoare\obj\Debug\Ghicitoare.pdb

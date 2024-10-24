@@ -31,7 +31,9 @@ namespace Aplicatie_Biblioteca
             string parola = txtParola.Text;
             DataTable dt = uta.GetUtilizator(email);
 
-            if (dt.Rows.Count == 1 && Cifru(parola) == (string)dt.Rows[0]["Parola"] && (int)dt.Rows[0]["TipUtiliator"] == 1)
+            if (dt.Rows.Count == 1 && 
+               Cifru(parola) == (string)dt.Rows[0]["Parola"] && 
+               (int)dt.Rows[0]["TipUtiliator"] == 1)
             {
                 var frm = new BibliotecarBiblioteca(email);
                 this.Visible = false;
@@ -62,6 +64,11 @@ namespace Aplicatie_Biblioteca
             }
 
             return new string(arr);
+        }
+
+        private void btnRenunta_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

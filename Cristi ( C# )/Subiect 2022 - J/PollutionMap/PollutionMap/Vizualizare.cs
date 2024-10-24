@@ -108,8 +108,6 @@ namespace PollutionMap
 
         private void pb_MouseClick(object sender, MouseEventArgs e)
         {
-            if (cmbHarti.SelectedIndex == 0) return;
-
             var frm = new AdaugareMasurare();
             frm.ShowDialog();
 
@@ -120,7 +118,7 @@ namespace PollutionMap
             date = date.AddMinutes(now.Minute - date.Minute);
             date = date.AddSeconds(now.Second - date.Second);
 
-            mta.Insert(((Harta)cmbHarti.SelectedItem).IdHarta, e.X, e.Y, frm.Valoare, date);
+            mta.Insert((int)((DataRowView)cmbHarti.SelectedItem)["IdHarta"], e.X, e.Y, frm.Valoare, date);
 
             pb.Invalidate();
         }
@@ -129,7 +127,7 @@ namespace PollutionMap
         {
             if (tabControl1.SelectedIndex == 1)
             {
-                int id = ((Harta)cmbHarti.SelectedItem).IdHarta;
+                int id = (int)((DataRowView)cmbHarti.SelectedItem)["IdHarta"];
                 int filtru = cmbFiltru.SelectedIndex;
                 DateTime date = dtp.Value;
 
@@ -248,6 +246,11 @@ namespace PollutionMap
             if (MessageBox.Show("Sunteti sigur ca doriti sa inchideti aplicatia?", "Confirmare",
                 MessageBoxButtons.YesNo) == DialogResult.Yes)
                 this.Close();
+        }
+
+        private void btnReseteaza_Click(object sender, EventArgs e)
+        {
+            cmbFiltru.SelectedIndex = 0;
         }
 
         private int Dist(Point first, Point second)

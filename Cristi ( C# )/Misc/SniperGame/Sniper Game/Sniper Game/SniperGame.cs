@@ -56,6 +56,13 @@ namespace Sniper_Game
             gameTimer.Interval = 1000;
             gameTimer.Start();
 
+            Width = Aim.Width; Height = Aim.Height;
+            using (var graphics = Graphics.FromImage(sniperAim))
+            {
+                graphics.DrawImage(sniperAim, new Rectangle(0, 0, Width, Height));
+                graphics.FillRectangle(Brushes.Red, new Rectangle(0, 0, Width / 2, Height / 2));
+            }
+
         }
 
         private void Reposition(object sender, EventArgs e)

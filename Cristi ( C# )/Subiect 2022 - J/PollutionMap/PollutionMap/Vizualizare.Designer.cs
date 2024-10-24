@@ -31,6 +31,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Vizualizare));
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.btnClose = new System.Windows.Forms.Button();
             this.btnReseteaza = new System.Windows.Forms.Button();
             this.cmbFiltru = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
@@ -42,7 +43,6 @@
             this.pb = new System.Windows.Forms.PictureBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.pbTraseu = new System.Windows.Forms.PictureBox();
-            this.btnClose = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pb)).BeginInit();
@@ -56,9 +56,10 @@
             this.tabControl1.Controls.Add(this.tabPage2);
             this.tabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
+            this.tabControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(931, 508);
+            this.tabControl1.Size = new System.Drawing.Size(1241, 625);
             this.tabControl1.TabIndex = 0;
             this.tabControl1.SelectedIndexChanged += new System.EventHandler(this.tabControl1_SelectedIndexChanged);
             // 
@@ -76,22 +77,36 @@
             this.tabPage1.Controls.Add(this.label2);
             this.tabPage1.Controls.Add(this.lbl);
             this.tabPage1.Controls.Add(this.pb);
-            this.tabPage1.Location = new System.Drawing.Point(4, 22);
+            this.tabPage1.Location = new System.Drawing.Point(4, 25);
+            this.tabPage1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(923, 482);
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage1.Size = new System.Drawing.Size(1233, 596);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Harta";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
+            // btnClose
+            // 
+            this.btnClose.Location = new System.Drawing.Point(39, 542);
+            this.btnClose.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnClose.Name = "btnClose";
+            this.btnClose.Size = new System.Drawing.Size(275, 44);
+            this.btnClose.TabIndex = 10;
+            this.btnClose.Text = "Inchide aplicatie";
+            this.btnClose.UseVisualStyleBackColor = true;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            // 
             // btnReseteaza
             // 
-            this.btnReseteaza.Location = new System.Drawing.Point(125, 389);
+            this.btnReseteaza.Location = new System.Drawing.Point(167, 479);
+            this.btnReseteaza.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnReseteaza.Name = "btnReseteaza";
-            this.btnReseteaza.Size = new System.Drawing.Size(101, 33);
+            this.btnReseteaza.Size = new System.Drawing.Size(135, 41);
             this.btnReseteaza.TabIndex = 9;
             this.btnReseteaza.Text = "Reseteaza filtru";
             this.btnReseteaza.UseVisualStyleBackColor = true;
+            this.btnReseteaza.Click += new System.EventHandler(this.btnReseteaza_Click);
             // 
             // cmbFiltru
             // 
@@ -102,35 +117,39 @@
             "Valoare < 20",
             "20 <= Valoare <= 40",
             "Valoare > 40"});
-            this.cmbFiltru.Location = new System.Drawing.Point(26, 342);
+            this.cmbFiltru.Location = new System.Drawing.Point(35, 421);
+            this.cmbFiltru.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cmbFiltru.Name = "cmbFiltru";
-            this.cmbFiltru.Size = new System.Drawing.Size(200, 21);
+            this.cmbFiltru.Size = new System.Drawing.Size(265, 24);
             this.cmbFiltru.TabIndex = 8;
             this.cmbFiltru.SelectedIndexChanged += new System.EventHandler(this.cmbFiltru_SelectedIndexChanged);
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(23, 326);
+            this.label4.Location = new System.Drawing.Point(31, 401);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(29, 13);
+            this.label4.Size = new System.Drawing.Size(35, 16);
             this.label4.TabIndex = 7;
             this.label4.Text = "Filtru";
             // 
             // dtp
             // 
-            this.dtp.Location = new System.Drawing.Point(26, 195);
+            this.dtp.Location = new System.Drawing.Point(35, 240);
+            this.dtp.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dtp.Name = "dtp";
-            this.dtp.Size = new System.Drawing.Size(200, 20);
+            this.dtp.Size = new System.Drawing.Size(265, 22);
             this.dtp.TabIndex = 6;
             this.dtp.ValueChanged += new System.EventHandler(this.dtp_ValueChanged);
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(23, 162);
+            this.label3.Location = new System.Drawing.Point(31, 199);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(30, 13);
+            this.label3.Size = new System.Drawing.Size(36, 16);
             this.label3.TabIndex = 4;
             this.label3.Text = "Data";
             // 
@@ -138,18 +157,20 @@
             // 
             this.cmbHarti.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbHarti.FormattingEnabled = true;
-            this.cmbHarti.Location = new System.Drawing.Point(26, 99);
+            this.cmbHarti.Location = new System.Drawing.Point(35, 122);
+            this.cmbHarti.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cmbHarti.Name = "cmbHarti";
-            this.cmbHarti.Size = new System.Drawing.Size(200, 21);
+            this.cmbHarti.Size = new System.Drawing.Size(265, 24);
             this.cmbHarti.TabIndex = 3;
             this.cmbHarti.SelectedIndexChanged += new System.EventHandler(this.cmbHarti_SelectedIndexChanged);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(23, 83);
+            this.label2.Location = new System.Drawing.Point(31, 102);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(29, 13);
+            this.label2.Size = new System.Drawing.Size(35, 16);
             this.label2.TabIndex = 2;
             this.label2.Text = "Harti";
             // 
@@ -157,18 +178,20 @@
             // 
             this.lbl.AutoSize = true;
             this.lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl.Location = new System.Drawing.Point(6, 17);
+            this.lbl.Location = new System.Drawing.Point(8, 21);
+            this.lbl.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl.Name = "lbl";
-            this.lbl.Size = new System.Drawing.Size(24, 20);
+            this.lbl.Size = new System.Drawing.Size(31, 25);
             this.lbl.TabIndex = 1;
             this.lbl.Text = "lbl";
             // 
             // pb
             // 
             this.pb.Image = ((System.Drawing.Image)(resources.GetObject("pb.Image")));
-            this.pb.Location = new System.Drawing.Point(280, 0);
+            this.pb.Location = new System.Drawing.Point(373, 0);
+            this.pb.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pb.Name = "pb";
-            this.pb.Size = new System.Drawing.Size(640, 480);
+            this.pb.Size = new System.Drawing.Size(853, 591);
             this.pb.TabIndex = 0;
             this.pb.TabStop = false;
             this.pb.Paint += new System.Windows.Forms.PaintEventHandler(this.pb_Paint);
@@ -177,10 +200,11 @@
             // tabPage2
             // 
             this.tabPage2.Controls.Add(this.pbTraseu);
-            this.tabPage2.Location = new System.Drawing.Point(4, 22);
+            this.tabPage2.Location = new System.Drawing.Point(4, 25);
+            this.tabPage2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(923, 482);
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage2.Size = new System.Drawing.Size(1233, 596);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Traseu";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -188,29 +212,21 @@
             // pbTraseu
             // 
             this.pbTraseu.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pbTraseu.Location = new System.Drawing.Point(3, 3);
+            this.pbTraseu.Location = new System.Drawing.Point(4, 4);
+            this.pbTraseu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pbTraseu.Name = "pbTraseu";
-            this.pbTraseu.Size = new System.Drawing.Size(917, 476);
+            this.pbTraseu.Size = new System.Drawing.Size(1225, 588);
             this.pbTraseu.TabIndex = 0;
             this.pbTraseu.TabStop = false;
             this.pbTraseu.MouseClick += new System.Windows.Forms.MouseEventHandler(this.pbTraseu_MouseClick);
             // 
-            // btnClose
-            // 
-            this.btnClose.Location = new System.Drawing.Point(29, 440);
-            this.btnClose.Name = "btnClose";
-            this.btnClose.Size = new System.Drawing.Size(206, 36);
-            this.btnClose.TabIndex = 10;
-            this.btnClose.Text = "Inchide aplicatie";
-            this.btnClose.UseVisualStyleBackColor = true;
-            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
-            // 
             // Vizualizare
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(931, 508);
+            this.ClientSize = new System.Drawing.Size(1241, 625);
             this.Controls.Add(this.tabControl1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Vizualizare";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Vizualizare";

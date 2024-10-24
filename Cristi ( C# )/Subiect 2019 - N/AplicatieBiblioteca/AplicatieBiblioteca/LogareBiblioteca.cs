@@ -22,12 +22,12 @@ namespace AplicatieBiblioteca
 
         private void btnLogare_Click(object sender, EventArgs e)
         {
-            //if(txtEmail.Text == "" || txtParola.Text == "" || !Valid(txtEmail.Text, txtParola.Text))
-            //{
-            //    MessageBox.Show("Email si/sau parila invalida!", "Eroare", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            //    return;
-            //}
-            txtEmail.Text = "tutor@gmail.com";
+            if (txtEmail.Text == "" || txtParola.Text == "" || !Valid(txtEmail.Text, txtParola.Text))
+            {
+                MessageBox.Show("Email si/sau parila invalida!", "Eroare", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+            //txtEmail.Text = "tutor@gmail.com";
             var frm = new BibliotecarBiblioteca(txtEmail.Text);
             this.Visible = false;
             frm.ShowDialog();

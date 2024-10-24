@@ -11,3 +11,16 @@ E:\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\D
 E:\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\Debug\Interferente ECO.pdb
 E:\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\Debug\Interferente_ECO.InterferenteECO.resources
 E:\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\Debug\Interferente_ECO.Selecteaza_directia.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\bin\Debug\Interferente ECO.exe.config
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\bin\Debug\Interferente ECO.exe
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\bin\Debug\Interferente ECO.pdb
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\Debug\Interferente ECO.csproj.AssemblyReference.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\Debug\Interferente ECO.csproj.SuggestedBindingRedirects.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\Debug\Interferente_ECO.InterferenteECO.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\Debug\Interferente_ECO.Logare.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\Debug\Interferente_ECO.Properties.Resources.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\Debug\Interferente_ECO.Selecteaza_directia.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\Debug\Interferente ECO.csproj.GenerateResource.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\Debug\Interferente ECO.csproj.CoreCompileInputs.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\Debug\Interferente ECO.exe
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2022 - N (redo)\Interferente ECO\Interferente ECO\obj\Debug\Interferente ECO.pdb

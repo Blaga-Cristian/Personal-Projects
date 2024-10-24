@@ -322,6 +322,7 @@ namespace Interferente_ECO
             timer.Tick -= MapEvent;
             timer.Stop();
             started = false;
+            btnGen.Enabled = true;
 
             List<Item> save = new List<Item>();
             foreach (Item x in itemi)
@@ -605,6 +606,7 @@ namespace Interferente_ECO
                 if(!started)
                 {
                     started = true;
+                    btnGen.Enabled = false;
                     var frm = new Selecteaza_directia();
                     frm.ShowDialog();
                     dir = frm.Dir;

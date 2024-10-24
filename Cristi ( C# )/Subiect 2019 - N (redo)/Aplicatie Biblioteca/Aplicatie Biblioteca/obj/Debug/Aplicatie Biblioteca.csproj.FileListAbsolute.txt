@@ -14,3 +14,19 @@ E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Bibliote
 E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.exe
 E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.pdb
 E:\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie_Biblioteca.PrevizualizareCarte.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\bin\Debug\DBBiblioteca.mdf
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\bin\Debug\DBBiblioteca_log.ldf
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\bin\Debug\Aplicatie Biblioteca.exe.config
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\bin\Debug\Aplicatie Biblioteca.exe
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\bin\Debug\Aplicatie Biblioteca.pdb
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.csproj.AssemblyReference.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie_Biblioteca.BibliotecarBiblioteca.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie_Biblioteca.LogareBilblioteca.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie_Biblioteca.PrevizualizareCarte.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie_Biblioteca.StartBiblioteca.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie_Biblioteca.Properties.Resources.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.csproj.GenerateResource.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.exe
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Cristi ( C# )\Subiect 2019 - N (redo)\Aplicatie Biblioteca\Aplicatie Biblioteca\obj\Debug\Aplicatie Biblioteca.pdb
