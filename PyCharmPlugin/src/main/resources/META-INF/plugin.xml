@@ -1,0 +1,27 @@
+<idea-plugin>
+   <id>org.example.PyCharmPlugin</id>
+
+     <name>Text Selection Action</name>
+
+
+  <vendor email="" url="https://www.intellij.com">PersonalPurposes</vendor>
+
+  <description><![CDATA[
+    A short plugin that adds text selection action.<br>
+  ]]></description>
+
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+
+  </extensions>
+
+  <actions>
+      <action id="org.example.pycharmplugin.ActionOnTextSelection"
+              class="org.example.pycharmplugin.MyTextSelectionAction"
+              text="Action on Text Selection"
+              description="An action triggered on text selection">
+      <add-to-group group-id="EditorPopupMenu" anchor="after" relative-to-action="EditorSelectWord"/>
+      </action>
+  </actions>
+</idea-plugin>
