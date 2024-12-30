@@ -45,7 +45,7 @@ namespace Interferente_ECO
             string parola = txtParola.Text;
             if(parola != ((KeyValuePair<string,string>)cmbUseri.SelectedItem).Value)
             {
-                MessageBox.Show("Parola incorecta");
+                MessageBox.Show("Incorrect password");
                 return;
             }
 

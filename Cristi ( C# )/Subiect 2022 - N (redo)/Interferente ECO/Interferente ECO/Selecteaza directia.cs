@@ -21,13 +21,13 @@ namespace Interferente_ECO
         private void btnLeft_MouseClick(object sender, MouseEventArgs e)
         {
             Button btn = (Button)sender;
-            if (btn.Text == "Sus")
+            if (btn.Text == "Up")
                 Dir = 0;
-            else if (btn.Text == "Dreapta")
+            else if (btn.Text == "Right")
                 Dir = 1;
-            else if (btn.Text == "Jos")
+            else if (btn.Text == "Down")
                 Dir = 2;
-            else if (btn.Text == "Stanga")
+            else if (btn.Text == "Left")
                 Dir = 3;
 
             this.Close();

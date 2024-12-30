@@ -127,7 +127,7 @@ namespace Interferente_ECO
         private void btnIncarca_Click(object sender, EventArgs e)
         {
             var ofd = new OpenFileDialog();
-            ofd.Filter = "Fisiere text (*.txt)|*.txt";
+            ofd.Filter = "Text file (*.txt)|*.txt";
             if (ofd.ShowDialog() == DialogResult.OK)
                 IncarcaHarta(ofd.FileName);
         }
@@ -335,9 +335,9 @@ namespace Interferente_ECO
                 itemi.Add(x);
 
             cntSticla = cntHartie = cntPlastic = cntColectate = 0;
-            lblHartie.Text = "Hartie: " + cntHartie;
+            lblHartie.Text = "Paper: " + cntHartie;
             lblPlastic.Text = "Plastic: " + cntPlastic;
-            lblSticla.Text = "Sticla: " + cntSticla;
+            lblSticla.Text = "Bottles: " + cntSticla;
 
             pb.Invalidate();
         }
@@ -500,7 +500,7 @@ namespace Interferente_ECO
             DrawGridLines(g);
 
             var sfd = new SaveFileDialog();
-            sfd.Filter = "Fisiere imagine (*.jpg)|*.jpg";
+            sfd.Filter = "Image files (*.jpg)|*.jpg";
             if (sfd.ShowDialog() == DialogResult.OK)
                 imgInitiala.Save(sfd.FileName, System.Drawing.Imaging.ImageFormat.Jpeg);
 
@@ -557,8 +557,8 @@ namespace Interferente_ECO
 
         private void btnClose_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Sunteti sigur ca doriti sa inchideti aplicatia?",
-                "Confirmare", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            if (MessageBox.Show("Are you sure you want to close the app?",
+                "Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 this.Close();
         }
 
@@ -673,9 +673,9 @@ namespace Interferente_ECO
                     tip = "Sticla";
                 }
 
-                lblHartie.Text = "Hartie: " + cntHartie;
+                lblHartie.Text = "Paper: " + cntHartie;
                 lblPlastic.Text = "Plastic: " + cntPlastic;
-                lblSticla.Text = "Sticla: " + cntSticla;
+                lblSticla.Text = "Bottle: " + cntSticla;
 
                 for (int i = 0; i < itemi.Count; ++i)
                     if (itemi[i].Row == x && itemi[i].Col == y && itemi[i].Tip == tip)
@@ -695,7 +695,7 @@ namespace Interferente_ECO
                 screenshotTimer.Stop();
                 cntscreenshots = 0;
 
-                MessageBox.Show("O meduza a fost ranita");
+                MessageBox.Show("A medusa was hurt");
 
                 return;
             }

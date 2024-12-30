@@ -111,7 +111,7 @@ namespace AplicatieBiblioteca
 
         private void btnStart_Click(object sender, EventArgs e)
         {
-            var frm = new LogareBiblioteca();
+            var frm = new LoginLibrary();
             this.Visible = false;
             frm.ShowDialog();
             this.Close();
